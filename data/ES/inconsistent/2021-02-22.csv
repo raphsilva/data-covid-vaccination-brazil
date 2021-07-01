@@ -1,64 +1,175 @@
 paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
-03658ef71c302ca90b833d4fdbb86f0750f41b57982f717fd938ad5c74bab364,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
-0c845dc0e7e0b758c4d36952fc542a641dfbbfe785bba84b314be82551161794,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-0d6339f50f8fc05148c72bc1dea91922880df97d9cdcc743916a40a526dd846e,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-118a1068f40260859726c7ade1f77d61557a976480454aab0ba4cf2b77440142,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-11dc1b539e4767e0279eeba22fc29e61f5d4025fcabac3bfc3906a455812f5eb,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-16a137ad108eefba4e1a36b8bd22ca687f60e03f2c73d3ccaa4e1669fa2a449b,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
-1e9ba4d143f3ac87f2ca0e3e05abfe0f5a05c3c991ddf674b44d771b532334d5,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2,2,2021-02-22
-21c78950568835e2259a22cb4c3e8dc27f847eb86d44af7f9f5fcb597eccaf19,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-22
-23f14cde85545d4c171608a58153927ce515518ef6eb82ccfb1d408072a98144,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-2e5f76153eb91f4810128146c79d50eb07da6f15edb4a93ccbe9a5f6c95d8ded,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-2f289daa014e52a7d58417b06751b75d9c623068e4cfd2f3a177dc4ca5730a0e,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2,2,2021-02-22
-3464f2fd2f51748bd11d4334aa602db18a83c44b15d0a2d267c50a9792ef002e,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-22
-39c3528a23835627f2c8222be89cda918584935fdcdcf8782b7d598af4206143,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-3c383a49f115f3cd0f5969516a958cfdca18d6abdf96dca1288fe23e8719e869,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-22
-3d73081e15b3f0761c531d079481235fadf4d20a8ca05ab06ce09bf1b8f10cae,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-45a8ec8a6e4a3892b8e2bbf23f8c13f175c67c8ebc4aedfa70e76a289d998a71,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2,2,2021-02-22
-4c2a335d171d83948c98b64afe631c85dc143a6652dacf9cf2826ea33e174f53,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-4fbe701382f09ab09dd732938d26e6e8b3a19ce9faf67c22fd5b5f28060648db,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
-4fcb2ef431260a00a7d355c0f5302c7d0b7a5456fd24f9818c965f51b6e8d5ed,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-5a58b308ceaa669a489a3c8c1137cc92d7e816bb1e9a4de2da3398f154f005c9,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-22
+b887e1166ab978d19240f1c885621dc3f9b551030efd8e4231b8f168debf3aa1,M,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+88ac533055b4cbf1dcb240be779f3bbb00202399de72bb2b4aebbfc3ad8da12d,M,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+a4c0ff805ed2b38a3beaad9f3773fec0603048bd4b660de51aae9ecf00989262,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+7517cefd282a799be44c13fdab957c61fe9ef356a2f976cb47ada38ba74e6f30,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+7b3c30a5591460112496e73b0f5b5e04187733b35c6ab558f8afc3b753e37eec,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+e00a6c33280bd837b48cb2fc259da37fa7d97cd2326b239e8f865e438ec747c4,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+2e8b69df28e2332a635b6e87ce11c15aedc822826bebf8ecd903dbfc96aa265d,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+e57ff52aa84a85f24da3356eb2a1323dc24691f4538665ce3b29cd16dea9769f,M,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+9f76256027608a40c03204eb91dba2df13180db7e1527bbb1ae00f397c6ec4b5,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+f6e7f6f8cb21ba6867edc916661bb8d57a69b7784e19f2c4b6ea55fcf30bed26,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-25
+f2032072bf4d60fc2305c1c54f1e72a0f7fad855dcea9b12a9c4fc027f0e8201,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+bf0018c218cc2873cf4384ccacc6332d26a9ba7833a8dcefc0872fbef975afa6,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+f208cd1858e773b77d85532277283aeec83284cc1fe2586d1ab202c4dc7b74e6,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+5b2d0b1902c27d8cf72ba1668a0b6da0c599fa3ba0fff357270f830bd65457ae,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+e71d654ad34380ad61bbe91fa680eb4ac163190eb92924073f0dcded7f5ef581,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+f2b566e41d1a814f29e2c5df1d9e50d9d50bf38f999119361e4a8b987849d42a,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+67bee2c0a456ca599ddc0286548f9d9e1909c491721377ca1bba4f765268d33a,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+f3127e0071ba11c1db58ca29b4162410ef216ee2003658897e9662249f5dbce7,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+c415ffa69fc326627b2a0f75eefb31a4c215c1bb593f6a9b882ef7630c56bce8,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+9e90eaf5db899d08b33abcdd2920793280c8c7652eaa27893ff74d3fbd13c038,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+d71d2185c7d980e9a23e15d63fa9863d5ca6a6737c5c7b6b5d4219c9f36d9445,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
 5e4505705369ceb60ae8ef73036d277aaa8c5db5a327054770a4f04dd375e6d4,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
-67251723f0b59deb5c79c0f95d29f4d4cd63481301596c190a4fb732719f04a8,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2,2021-02-22
-708fb3e40ef29a724afcd5d5b6d691e59a0af082a741e88d3e1bbfebf8ed990f,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-22
-72ada82fec8e9ea9ea7cb199feff04c83a65e8e8c068fb2507952520d0dda430,M,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2,2,2021-02-22
-754c2d26f95fd927f5a2b1a96a0ef2051091b6be79c3ddb01b5b6a8f63014442,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-7ca201c735eed3ed7fa944c299765587ef0db506dc377abdd2fb94f54fd5fc2d,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2,2,2021-02-22
-7cc8a75e60486a26a20e5b1bf6e57fa68951d98a2492ec216bcf04e1c1f72085,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2,2,2021-02-22
-7da032c2b42c570e3c378e535c8ba37a90c396d4a115c96413a88c4cb80ec30c,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
-7efd83fad05118b88982110c5577f91c9184c54c385f027278b4c1c85da78f1a,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-22
-882f6fa7b7b28276306108396eaa59082b113bc31cf88e32f0ed287fbca7f55e,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-883c173fd6cb0b3d132859d79e49a0d2b00f4fa14033aa1ba0a34dca09b783d5,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2,2,2021-02-22
-8904ea99c3403e724c7f168d397822720ff3f1ee0525f43452174b871fd11452,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-8b3741d8e8996e5c278acde6b22e9ef1b5b4e77a62a1ba38c82cea365b9d266c,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-8b8cb7dd7a6b2cd685d7b51adc04e36afe1d4757483e4485a86e7b2eaf08097a,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-22
-8ebc46eef0daec0ff5a3a913ee09cfdbc728a2be2ba7151c047d0e33d6d4d956,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2,2,2021-02-22
-949f14d57786951989d1223aa7c37e463fb911ffc7d395f5a9d97dad19cab718,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2,2,2021-02-22
-981b77ca7ac01283d01844a05fe15535ee5ceb92b609e5394a36cbce4208a646,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-9956f4dbc95678dc7f2f7c30089feeec619315fe299a8b5f930147220f56bbe5,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-9e7048146565e0c4186c760bcedc09fd33850050b5909ad5682f42342cb72be8,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-9f6f210d5424854c8e88a5f31118393fd0e7f5f5e544f9eed5de07e473275283,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-22
-aab1ba9ba997e9536cf1c91655c4e2893e2d4b4a6d64c081289b8f2c11bd36f8,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2,2,2021-02-22
-adb0d54d42ff353594940040cbef54706c113659bf415ce3cfb993e4276c2ec9,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
-b519cb8acd16b76ecc7df7962b7e63110d3f8c9c23930d0e401bec5558b2b777,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-22
-baf22b1ed597e1991be5b04c125541b8bd584699a6488e836bd6f37336b9580a,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2,2,2021-02-22
-c11f11c26350383d1818f1512623dc3ad29b603daac418a868f151d58cc47337,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2,2,2021-02-22
-c5d14134eb230d1acbb6262cfbc6c628b78f7aa014a79d98faa5cc9ec1163659,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2,2,2021-02-22
-d753b57b972d27f8fe4d30fab715e88a69200d9efb6f6a217c85a2c47cb183f6,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
-dc65545efd2a553b51e57903fc53d5a36a60f7138c8938cd81684e9fa22d714c,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-e0614a3bac09a1c8fc4e84c904cf102f6371291649be24ef66bbfc182648aecd,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-02-22
-e3882b5ac79bd355e97a1c53efe69e6b1a0cade32e175dc22e90d042c4cdf4a5,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-e789802ce66292ea2ef20e466cc17de6566afadb590a62af385e36c7dab4a823,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-eaf0048c1619253677f9677d7deec2b4fd604a13aa13c14c34d6dc103cb09737,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-02-22
-eb6c82d0e168435418d927baf44886d4f04ebcdff541a55c9ab29eb15507d8a4,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2,2,2021-02-22
-ec87c001a02224f067af8e95efab511705992c401c44556319976aeea9d24047,F,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
-ed28f4bee7473529a1312df37ff7713437bce71dd485816d77cb36b69fdb6150,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2,2,2021-02-22
-ee3fe00325305e352209d0b89b90228be6129b1febde1667170e28df86ea3548,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
-f0338ad71014b2eeb28fd78c573df1162ccf17eaa59be18d902ed2d81ae28050,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-02-22
-f293b089eb3145fea974d805b746a881f34eb825ba118944e1bdf883959933e8,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
+fc1c5353232f478e0641499e1b387d9e0de6416a147fd93c0a252dcd80a1d99e,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+0bea3b2caa52ec2aba64100b8e183f82f871ea96ceef88ff3fefbdf0fd86bb02,M,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+798e86da7012ad0f747eaf02983f7b245c982ff99f9ad21b371b15cdd3675cdd,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-27
+cb69988f6b8de93c31a42d5257e2b21c74d493a10f2f695e7cf19c63c42e6699,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+76d9a88edfdbcb94c6b8c0a84b5e491324baecb6f3b06fa90799df5faa581b23,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+3936c364017d1c57911dca4a878c3667a9bd9109a58bb2e66555f98df9c5dc4e,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1,2,2021-02-25
+1e9865ce6726d34b4e65a4ef3508f403872eb7a82eda2ea95fb582e9df2933c8,M,74,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
 f702d688735bf851deca72800fb222d113353d837d9f56614bd3bcf43706282a,M,69,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2,2021-02-22
+01646ec2dea972bebfee175cc682c4bdb7733c70d5b0a5afd4f2dc2ff0bfe4ce,M,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-24
+72ada82fec8e9ea9ea7cb199feff04c83a65e8e8c068fb2507952520d0dda430,M,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2,2,2021-02-22
 f7297e60215288b87d71236db698ec0304e7d2858d1fa636ee7562a18f07a53f,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2,2,2021-02-22
+5a58b308ceaa669a489a3c8c1137cc92d7e816bb1e9a4de2da3398f154f005c9,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-22
+7efd83fad05118b88982110c5577f91c9184c54c385f027278b4c1c85da78f1a,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-22
+575f9338b4f66bad648aafb41b87852dbb977bc4c66f95852e37b2549c484180,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+21c78950568835e2259a22cb4c3e8dc27f847eb86d44af7f9f5fcb597eccaf19,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-22
+4c2a335d171d83948c98b64afe631c85dc143a6652dacf9cf2826ea33e174f53,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+8b8cb7dd7a6b2cd685d7b51adc04e36afe1d4757483e4485a86e7b2eaf08097a,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-22
+3ff5695ff6665fe46dd3a3695557112aa9343f37802bc2320b659bd1c806d833,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-26
+aaf2a0364abd2398c916d12aee890d0292b75ad8e8aafd5ed4423838bb73f482,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-23
+17efc37f178a47a3c296e5ae34ef1c2704dd644a8ba87234d45704cceeb9e3f3,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+e3882b5ac79bd355e97a1c53efe69e6b1a0cade32e175dc22e90d042c4cdf4a5,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+17ccff03b425593fb22b19a80cbfdbe6338eb174ab9f30fe20014222465361fb,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-25
+1e9ba4d143f3ac87f2ca0e3e05abfe0f5a05c3c991ddf674b44d771b532334d5,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2,2,2021-02-22
+2e5f76153eb91f4810128146c79d50eb07da6f15edb4a93ccbe9a5f6c95d8ded,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+dc65545efd2a553b51e57903fc53d5a36a60f7138c8938cd81684e9fa22d714c,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+a775ad7047da0e14328903e71fe126f67c7ce72c7c4b6fe87befbd84a05626cd,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2,2,2021-02-23
+3652ca1c2dd2833b6527799b5ec65b2d28e415333347c6a54fc939f6b458f729,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-24
+f6fc2eed0f85c786166cde0529504045f65ff03bbaf129dd189372dfd8504b5a,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-23
+be899174ac1196e31471d097b5e8e6b0eec724e0f6c615d9ed93c9d236550bc6,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-24
+789823d2f15b86c5d8f26d536825282fa754a17d92f631f02f651d5d3d997908,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-23
+ec87c001a02224f067af8e95efab511705992c401c44556319976aeea9d24047,F,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
+aaa20c8d4820387f6c9e24d566404f1e538f56f49da1b8e277b474849542c5d4,F,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+0807e38416822563bb6c4ad4d33b006aa7338120e8852013e18b2283e4940930,F,91,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-02-26
+bb1735cde02a5068fb46a474004f87cfdf92822bebff3d6770d2943050ac4257,F,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+4a9192deba23e7334d7b79e1038544df8f735f957818e44c97cd05ba4cfdff0b,F,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+c83e776778266331bfdb1115eb13f1ccfcb3ad9690548b1e49cfd8b57970ca5b,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+8b9267d993d00858ffff8422373269d8e11a048ef5b110a75d3a3e7fec1e5ada,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+7da032c2b42c570e3c378e535c8ba37a90c396d4a115c96413a88c4cb80ec30c,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
+93c81cb0b8aeec4e53286b56465301a63c04744d26b72242b49b2ecffa41fae2,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+a5b0b54f30690dd111260dec4a0371171e0e988803907042aa7ba95973cd1618,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+f2e7a9a61e21486b60243caca63233da9175972bf3ff4efc05afb45b8e7d4b50,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+ed7877698964226bb7e8810333c104030d85f887b4d0572d4f2f01cb0ed08825,F,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+26d0a5132d5d928bb9ca9fa9b03e563aa58c8f9eb6a4dd3cf297b17e6d8fec64,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-02-25
+bbb5f1b201f96ecdc1d8982b2033b3333a1adc27fa5096319da5c2ae73835c6c,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+cb9778ac65ac4a4b294def438a1dfe1d2c030199d435619cdf1a17f2889dc87f,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+03658ef71c302ca90b833d4fdbb86f0750f41b57982f717fd938ad5c74bab364,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
+7506e8ee66bbf4ffe93a79a18a77b9760405cbb328c9851615918890465f859e,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,3,2021-02-27
+9c045348de0c38995c18725e51ddc5695d153e0c16f3feff241bc6834d2432fc,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+d566fa7da9c15be36b4bece972533aff38e0114af010622244a7256c0e876cfd,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-25
+ccd31d742fcf7023ea212f7e7949c6c965ca13199b291f12ecae9dd6c3e98be0,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+7d58ca1e4c0bfbc15af14cc38d0eb705f62d19aee6ddf9ce5c2e13f8a66fb385,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+d6514d091c27477f6f68e38743e337ce7405c66ad0ac5423a6ed35ca63bb6915,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+d02aafa64069d34dc2f1849aa0147b2e89fa59d4982d0b16b0299478561bf26f,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-27
+98244a37dd1f562401c1f3da7ca98cc456a0366ad181cec1322c90749eb0ce65,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+8eced249d5463d47455a40a868b16c311dda27989baa5ddc0778808e2661210d,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+f8717d9aaeeed6888847a73aec14b838931ef03882fe6b39d86d9a59961f1d88,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+fccdd03a02cf44ea144bb43cc6339f7681c8dcb7e0f8668639764917076333b7,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+14aa261e37cc58e56def49550d66d06bcbfbdd57a7948059ecbee425f455032f,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-25
+4573ad5dd9adb4c3341147ad8411a248c43c90e1905e9b7cdbb95bfe503de85b,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+bbbfae07c443d2fee3133c8e47aab778dd058d637f40ad36ad5549117e4e3f64,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+0e7c36d9b026a692d00cba1ebd92c24c16ade39a9b0d17ff0d1364bb2787117c,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-23
+bb9304aee9f014df2c23b693bab94e43f171c8dd26434ca98540fa4d9f06f185,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+d0ac3b538e3ec4e816179458aa09c237fa765620593e7f69815ebc0a4720f295,F,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-24
+d25961ea3d053c301b8881f3bbb43c3c6610a95d2a761bee058778afcaeb2099,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+dcb201397ce403e49e5bc969a93b606a1a9667f9a436d65de3c6d6cfc8693640,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+d753b57b972d27f8fe4d30fab715e88a69200d9efb6f6a217c85a2c47cb183f6,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-22
+89265796c373d0dbdd466f795a1356b76883f07504b9495e9cf17af3cde49ddc,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-28
+bdb274f3c2c7e7cf19085e8192bad78504e1cf3bb9770799c591d9fef6787c29,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+f8d6581618f36c2e57bc1ab28bbdc4913a9d1047de6fc21b3e5d66955a754d96,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-02-26
+d59acbe288c5cef0a66e3b6852e07ca3572c80619e01a3e39fcf796d23280291,F,78,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-27
+ef5b44954768b96847128f98f3de4d25a80b307cc94133f23dae33beb193d31f,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1,2,2021-02-25
+118a1068f40260859726c7ade1f77d61557a976480454aab0ba4cf2b77440142,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+45a8ec8a6e4a3892b8e2bbf23f8c13f175c67c8ebc4aedfa70e76a289d998a71,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2,2,2021-02-22
+9f6f210d5424854c8e88a5f31118393fd0e7f5f5e544f9eed5de07e473275283,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-22
+4fcb2ef431260a00a7d355c0f5302c7d0b7a5456fd24f9818c965f51b6e8d5ed,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
 f7911762ae220eea2026dd7854403c00dffa6a792d571d855bbb3c0f09375de1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
-fa9a501a7a441a6e0451bc4a75513a19d54f20af7544451c2c421bf4670d5d0e,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2,2,2021-02-22
+4bb910143ce216ef83c2197f8019bf2a5b4923db728caee1323570fdd7f890e5,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-02-26
+eaf0048c1619253677f9677d7deec2b4fd604a13aa13c14c34d6dc103cb09737,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-02-22
+ba73be495159722f444af57602b0ce865df9a8368562f9fe689a4259c79b089e,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2,2,2021-02-26
+2fbdbbf6900aff74014f93ca34212e12c8c1f6cd7b41f1d67d1e509ef455dc0c,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+5ecd369253546e91fa835f9181b0ee36059664f462f631440875c07ba662595d,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-24
+adb0d54d42ff353594940040cbef54706c113659bf415ce3cfb993e4276c2ec9,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
+11dc1b539e4767e0279eeba22fc29e61f5d4025fcabac3bfc3906a455812f5eb,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+eb6c82d0e168435418d927baf44886d4f04ebcdff541a55c9ab29eb15507d8a4,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2,2,2021-02-22
+18f0b6194a64e79f7c32af20c3b43067819f8fc2f5873a44ae12dfe53ca57e8a,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2,2021-02-23
+f293b089eb3145fea974d805b746a881f34eb825ba118944e1bdf883959933e8,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
 ffb65c46c8ab74a3a8951d0e73e22e3a76b144b021d9b874367f100227b420ee,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+6798cebb279a16dc6df785603124483514f731dd63d4212aaf159f3030cd1db4,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-23
+f4fdf3de7754ca7dcd056c506a6aa9c28a067385a3e12c7369d26f6cda7555e5,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+3d73081e15b3f0761c531d079481235fadf4d20a8ca05ab06ce09bf1b8f10cae,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+67251723f0b59deb5c79c0f95d29f4d4cd63481301596c190a4fb732719f04a8,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2,2021-02-22
+b519cb8acd16b76ecc7df7962b7e63110d3f8c9c23930d0e401bec5558b2b777,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-22
+9d826d9b3fbb4704e263c03501f8995c44e67ef0d8494468cde973d42297024e,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-24
+f0338ad71014b2eeb28fd78c573df1162ccf17eaa59be18d902ed2d81ae28050,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-02-22
+8ebc46eef0daec0ff5a3a913ee09cfdbc728a2be2ba7151c047d0e33d6d4d956,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2,2,2021-02-22
+baf22b1ed597e1991be5b04c125541b8bd584699a6488e836bd6f37336b9580a,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2,2,2021-02-22
+9e7048146565e0c4186c760bcedc09fd33850050b5909ad5682f42342cb72be8,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+981b77ca7ac01283d01844a05fe15535ee5ceb92b609e5394a36cbce4208a646,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+002a0a6a711e8bcc2708cd7e57e25cbf95e2cda97a71a665cf0123cc771f6c4a,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
+63e990bfc52da9253ab70c988ed9a23644d25212e16b4654d99bbbc313cba28e,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-24
+b0df59563bf28c63bb9a4a70eff804e006451f4e0b03c3cba6adab7368df6a3a,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-26
+05139e1cd54adf3a52279d08e6e7a2af5cc21ffaca47b8ecf0b461d90ca42688,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-25
+2b70fac4adf0e65e25868eeca2f33d54a17b98d7d33f755e31e53045a14e87fc,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+ed28f4bee7473529a1312df37ff7713437bce71dd485816d77cb36b69fdb6150,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2,2,2021-02-22
+2f289daa014e52a7d58417b06751b75d9c623068e4cfd2f3a177dc4ca5730a0e,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2,2,2021-02-22
+e789802ce66292ea2ef20e466cc17de6566afadb590a62af385e36c7dab4a823,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+49724e51054abea203acb8f00cdf8289273b1d272411d049b1816465c7f96713,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-23
+8b3741d8e8996e5c278acde6b22e9ef1b5b4e77a62a1ba38c82cea365b9d266c,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+74443bf1a3fa6a57c90db4fb62883480bdf2f5618c2ddb6bbf756e27494fd87a,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2,2021-02-24
+2d0ca08f9ec9cb6ea372752658704fa3a32ebb359eae0a05311960c26ba302b5,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-26
+62e6cfa9dade4c1ba3f606bcd425cf7be23d2fb54482d3979e24fbe80d09d02e,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+fa9a501a7a441a6e0451bc4a75513a19d54f20af7544451c2c421bf4670d5d0e,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2,2,2021-02-22
+fce4b5c346f62a87a39e0e73b4dda584dc51d7a1fed3e0f130ff0ca0511c6128,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2,2021-02-25
+7f6be7bcb75c1ac9903f0cbee51ce2c875a7e3a4ef1c56ae5da70aa358c34d76,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-24
+39c3528a23835627f2c8222be89cda918584935fdcdcf8782b7d598af4206143,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+8904ea99c3403e724c7f168d397822720ff3f1ee0525f43452174b871fd11452,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+bd626f1662efe56886dee7beef143cbc30a8b1a3686e3e5f248194cdbb284dcf,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-02-23
+60471bc2302c2cb6bf1fad6d7e998f16d6f26cc667654f1d12912c94b42bf0e8,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2,2021-02-25
+89036d452812c8f3c6acb451d17e01b787dddea22705734d039237b35f8addfb,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
+aab1ba9ba997e9536cf1c91655c4e2893e2d4b4a6d64c081289b8f2c11bd36f8,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2,2,2021-02-22
+abe0f10be348c7289eda8125568519f22293d73503222e2a6196010f77bf12e7,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+23f14cde85545d4c171608a58153927ce515518ef6eb82ccfb1d408072a98144,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+2f66e7b0d45e3e4e028ffb1f81f75f148557903f6e6631aa31901f9f9a6f23eb,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-24
+883c173fd6cb0b3d132859d79e49a0d2b00f4fa14033aa1ba0a34dca09b783d5,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2,2,2021-02-22
+ecdc99b6703366b2a258c3633039f31c159a7099a7e1cd904dd96f7421b98549,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-23
+b3d8eadab45d50694e53d44f6d506b6e6bd40b0b96f66ea7974f73510be1779f,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+7ca201c735eed3ed7fa944c299765587ef0db506dc377abdd2fb94f54fd5fc2d,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2,2,2021-02-22
+3464f2fd2f51748bd11d4334aa602db18a83c44b15d0a2d267c50a9792ef002e,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-22
+14c2cd91557ac5d9f037175acd930ff720a4197dffb305d27103c58b7829a223,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-02-23
+7f64bca1374637dbaf3e0a29a81beaf0973a35eb6d6acad086581dfa8a56125d,F,34,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2,2,2021-02-23
+949f14d57786951989d1223aa7c37e463fb911ffc7d395f5a9d97dad19cab718,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2,2,2021-02-22
+ee3fe00325305e352209d0b89b90228be6129b1febde1667170e28df86ea3548,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
+0c845dc0e7e0b758c4d36952fc542a641dfbbfe785bba84b314be82551161794,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+2c68213b78900c4efa90608acce50d92511828b7b2b6d6bf758c0cb5b361b887,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-02-26
+708fb3e40ef29a724afcd5d5b6d691e59a0af082a741e88d3e1bbfebf8ed990f,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-22
+9995d2ea34d63184159ef1ad744f9e92d370efc942d82447e6bcbd7e5351b0ae,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
+32b7ca0edfb13ed4d0f1e983d6a30d869c07361857342c68670133f3a4e9bd2d,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-23
+882f6fa7b7b28276306108396eaa59082b113bc31cf88e32f0ed287fbca7f55e,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+3c383a49f115f3cd0f5969516a958cfdca18d6abdf96dca1288fe23e8719e869,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-22
+16a137ad108eefba4e1a36b8bd22ca687f60e03f2c73d3ccaa4e1669fa2a449b,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2,2021-02-22
+c11f11c26350383d1818f1512623dc3ad29b603daac418a868f151d58cc47337,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2,2,2021-02-22
+7051cc3d28771d9ec3490e8e6eb614904f8b1f8054108ee214746ff9a0837e05,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
+c5d14134eb230d1acbb6262cfbc6c628b78f7aa014a79d98faa5cc9ec1163659,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2,2,2021-02-22
+0d6339f50f8fc05148c72bc1dea91922880df97d9cdcc743916a40a526dd846e,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+015ef16dd6200ed1711c2ec3cc7dfaf2f820d8b94a65d6d0380c5affb9f5d455,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
+13437b33a2fe33fb345ae0470737630357c4bb84cdbaf102707ec2d3570a0623,F,28,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2,2,2021-02-23
+8d3e219bb1da27492757f0420ba5ff52bd4a31231cbd2a6a434c9e1d7ed24a7b,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-26
+8244071b8815a59f411adf9b41f6a77a91cb41ed15f27e2b65fe7a69528ae8be,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-25
+9956f4dbc95678dc7f2f7c30089feeec619315fe299a8b5f930147220f56bbe5,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
+6ff16a15efc6bfa5841fa8b8bc48f1731da437ee9eafdb142ae7b9be1ebd68b0,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2,2021-02-24
+e0614a3bac09a1c8fc4e84c904cf102f6371291649be24ef66bbfc182648aecd,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-02-22
+7cc8a75e60486a26a20e5b1bf6e57fa68951d98a2492ec216bcf04e1c1f72085,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2,2,2021-02-22
