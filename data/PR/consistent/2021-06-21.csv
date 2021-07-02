@@ -2620,6 +2620,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-06-21
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Aquaviário,1,2021-06-22
 3,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-22
+1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-27
 2,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-25
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-24
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-23
@@ -3932,7 +3933,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Funcionário do Sistema de Privação de Liberdade,Funcionário do Sistema de Privação de Liberdade,2,2021-06-25
 2,M,45,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Guarda Municipal,2,2021-06-21
 1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Forças Armadas (membros ativos),Exército Brasileiro - EB,2,2021-06-21
-13,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+15,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 13,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 32,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
 47,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-25
@@ -4057,6 +4058,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-22
 1,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-21
 1,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-23
+1,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-27
 2,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-25
 1,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-24
 2,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-23
@@ -4437,7 +4439,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Policial Militar,2,2021-06-25
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Policial Civil,2,2021-06-25
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Policial Civil,2,2021-06-21
-23,M,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+24,M,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 23,M,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 20,M,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
 68,M,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-25
@@ -4448,6 +4450,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-24
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-23
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-22
+1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-27
 1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,2,2021-06-21
 2,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-23
 5,M,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-22
@@ -5510,6 +5513,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,2,2021-06-21
 1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-26
 1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-22
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-27
 1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,2,2021-06-23
 1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,2,2021-06-21
 1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-25
@@ -12096,7 +12100,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2,2021-06-23
 1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-22
 1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-27
-7,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+8,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-27
 1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-25
 2,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-23
@@ -13479,7 +13483,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-21
 1,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-24
 4,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-21
-282,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+283,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 2,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-22
 282,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 2390,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
@@ -14655,7 +14659,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2,2021-06-21
 1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-24
 1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Policial Militar,2,2021-06-23
-13,F,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+14,F,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 13,F,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 28,F,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
 38,F,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-25
@@ -15306,6 +15310,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-06-25
 1,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-06-22
 1,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-23
+1,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-27
 5,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-25
 2,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-24
 2,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-23
@@ -17369,6 +17374,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-21
 1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-06-21
 4,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-24
+1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-27
 5,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-25
 3,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-24
 9,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-23
@@ -19988,6 +19994,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-24
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-23
 4,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-22
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-06-27
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-06-22
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2,2021-06-22
 2,F,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,2,2021-06-25
@@ -21730,6 +21737,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-24
 3,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-23
 7,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-22
+1,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-27
 2,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,2,2021-06-23
 1,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,2,2021-06-21
 3,F,21,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-22
@@ -22343,6 +22351,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 8,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-22
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-22
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-06-21
+1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-27
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-26
 2,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-22
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-06-22
