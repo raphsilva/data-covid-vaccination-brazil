@@ -1,13 +1,116 @@
 paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
-05bd6e5d01e425c149d30108c21a25c77a4fb9eba694738a1c555468210144e7,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
-30394c230b19cafe39df227e651bf1f2c6c61144515fd85fb083cf6268938ebc,F,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
-432d4f23996e0bf5f408975d88ed4e9fe94996128963b981e0eeef59e064e2b1,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
-4c8e57a5ef7c99f4cb65ecb0a051da55f2ba4644ce6c286363c4d4db2779cde5,F,77,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1,2,2021-05-17
-64d34344a0bcf35dea2e0c38693af3ce7f1082ceb3ddbb0dfcaf98d5cb150470,F,58,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1,2,2021-05-17
-7cf61954d85cc8829c75d216b30e5fe3180ede18931248138c3001a8f847c158,F,57,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-17
-95ffdde343a5e0ac0c2d31ee9efed07b43b9fe862d8723ec8671f9d2684e4a68,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
-ab58b74cf4a44f90f45deccb3653b55d6cf6075e0fea310587986a39bf8c8be1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
-ac91f2562e153edb1ad0478b6341612a0033e4b17cf18b0b0cc98102e50343ff,F,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
-b7fcb2afb7531752415fb0f5a6f477dbcaa1eaf2a9d849a873b304798342adb8,F,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
-ccc97db268db190482b42a1df2838fe9b75bbe4157e09b4aee1c92e51cdffd37,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
+079fadc84f0fa02e505d696aa12713e0d327c9297ba2fb40d08c31e77dcd8844,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-05-22
+4ace52bc772760f029dc745fe47af49dbf710132d0fbb549caf3e3c1c6dc0b6e,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2,2021-05-19
+95cbfff7b83d0f03960f3ac6d887f3f3ec2b0c3716462a3ec9863f49e8e2a267,M,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1,2,2021-05-19
+96b101df143333078dac7e21fb069b940368915164ebbae82c62652cefd67b66,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-21
+64ee74403a149278ffc0e2389448f844b156ee28a3de3a6a93c9c7202b6e0efc,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-20
+8990e2bee4b7b16504f839f419fde9c69aaf52f3d59c81ffc68bd382458837fb,M,66,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2,2,2021-05-21
+22d4e128fc1da5658c5be6e99e845793aa79b07359771d4ece41b1ba2a1da130,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-21
+9c2a0f29fd940d0602c9f612fa799e0e6d82613a742a48798a26fb92db375b28,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-18
+9236bead315e6f99ecb4d71ec24b11c900d99f8b3349d8c7a1e4f8232839db48,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-18
+5dc8a5342dbae39bfb11f79861652b34a982580fd0b5b2a34dbf57e2f9e54d34,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2,2021-05-18
+b8c479a000c57e35e4a1eb23bb3e527d1c5ceb25686032ead391f58bc2f5df4a,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+43e17e6a4a5681c2f22f75147de2b6ca624ae5d59cafbb2ebd37b7a1fb977295,M,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2,2021-05-18
+eb99c897203e3de8bacb0980bfab29d0d96a4e4952ef73aa02fd591387818a9b,M,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-05-21
+cc03959643e465e332b3e50eeaaa44e526755fdd4c909ce873dece578bfa3ff5,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+d92a030967afc25fc81fea8c979c2637188048fa58fd99f34e02b5d53c96e5cf,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-18
+e58eb834172edad4a945fb95cda5c424d2e65191e1029b8f22dafedeffe7d577,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+8b068a788692469f0ec2bf904bae7f0ac1080f5f8fc13a4fc0958337ed2a7dc8,M,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2,2,2021-05-21
+f0da79bc23786eee50c3027eb4976f9f21a486417ddeaf207916b18c10ecfde6,M,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+29e666513af2b60141d5048634822e392a00b5938d2b47c6ffce6856f4fd751e,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+df88023a903aa890d60d401704b4ab0a083bec6df1098e6f545170beb948d93e,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-18
 e7f2aea248bfc1bc1ea05b4dab5ae622c056ecbc0388d682c4df0747b08a026e,M,59,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1,2,2021-05-17
+5efa47c9f60f2db2e59e1838c4f44ba6392298a54ad32856ffa571ad55eea5c6,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+ee9f26c6cfb0554906ceb0431a023865988abcb23f324f592590cfc0c6fdc319,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-19
+432d4f23996e0bf5f408975d88ed4e9fe94996128963b981e0eeef59e064e2b1,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
+90f9360cd03c8865968daaf6cf80f1eed0c408fd791da8d8f27fbe0ec94b457c,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+7929de4bc3b5966181a05e2a096775d4961c9ad09ea1a04aabde67da4bdaaecd,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-21
+3eec43bfba8fecae3f3a7c3a48c19e7e3069d69afc18c21b6afb4cf2da19539b,M,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+365cef3a3715183c3110b6c5a8fee3fba9c6590d8682c61eeef6f8a95792b94f,M,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-19
+4556c83a8522b5ed1841c9ebb3516d96cbfa11ba583242c26b6fa2923f33e555,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-05-22
+760140735d822f364f6d26cd63d4c13b193174d947f19f41d2e22a6d56d76c0f,M,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-19
+aadbf847e43cf0420aba11df5641366551558139033cfbbc4900dd04b560708f,M,52,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-21
+d5ab84aec5d4414d7de4c094db6b6fc886c7a3867a824079a9586573feed79cf,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+95ffdde343a5e0ac0c2d31ee9efed07b43b9fe862d8723ec8671f9d2684e4a68,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
+f10c6ff867f04e1b49660cb1e7df4b5cd56774b517c5e6153e760a77424ec3ce,M,50,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2,2021-05-21
+7819fecf47ef1752e2c95d310632a3ecd1ca12bf0bb9e835e5601b211aba976c,M,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+2026124e6943382d11442c5ddade7e26b24fcb38fc6b921e95a1d703edb9e6b7,M,46,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-22
+60ad1decf39d5c7ca98944a9d4178aa8e09b8dfdee8bd27786ef7fa3048c9d1a,M,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-18
+4b2f896f684daf231abcde01dc96cbaa34914790f82a9ae05cd76af3e535d212,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+9f6d1062e069e895a23681efc9b79aaeec1bd2a1809b2f0ddcaacc9975d22288,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-05-22
+776fa96f24cd019d145b80e73946b620d1d486a8f827bc6b12020a7e63f9d533,M,42,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2,2021-05-21
+6b4b02eeecabaec5da72d37cd2d352fabbdb8f42a0610b306602d75e588ac561,M,41,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-22
+bb6f699216576a1cbd87243e6e28592e43d8bce55656d625ca72e73c897adb9d,M,40,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+f6cc2562a04948304c4f8ae4236dbe5849b256cd012bfc17c5ceb70f29d3f317,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-20
+57e1709f6aeba02b7318f64f68090add63d7b8c5b6c5cfee5488be1709c674fe,M,24,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-22
+0c7e4f2276777ab9618b01dbd0d50ea62b00789605e98ca013ef638181677970,M,20,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-22
+295e2d429b786e8067251862ed6e161275bba4afee93f0b343b2c5a333737767,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-05-21
+f415bb909ade23b187c60b2d7d09974c746c0823d0d972863effef081d41fc96,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-05-19
+08c5995e96b1134bb9005431b34c852bca7d8d0a5935e3e422538c8da386e934,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-05-21
+4c8e57a5ef7c99f4cb65ecb0a051da55f2ba4644ce6c286363c4d4db2779cde5,F,77,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1,2,2021-05-17
+ca4cdb6b1fb0549f7cdff039c885044e915ee16f506ba379bcf61d6924e3ba39,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2,2,2021-05-21
+d862d536fef85088a31763a545b56042be777d7d6ee1b1941701ec8cac73b8ed,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2,2,2021-05-21
+a1a8dee3c44117c1888877adac8efa72d8c324b25c9fd63fa278ea058e287cb1,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-18
+ffc60187729710853ad8c090a0ada8fd96d293b8b4478a2593d3d9b093044f76,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-21
+d43d11bda3ef01af665b161a416f186050bc8e47e733040d0cbdbfdbc5fc40bc,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-18
+c2dd6fb8012e615c1bc6bf9bab8bf02de5ee7eb9483f124cb67f696982c25426,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-18
+b64b9f473e2239e57a00efa93a3b068d388ec6e1854e36a3ffd619dcd1b19df6,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+8c813a4e39df2ffd27a50ea7d8c8dbf319968861fb4edc148347ae943654d462,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+00b7aa7a8fc35c24c5c2990ea519808831ae19fbd7395544f8ebfc870b7de4d8,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-05-21
+ed5e464bc2c15155aec1fd47bef9532026d652c8c8720a88396375afd1ea22fd,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+631cb0dc48ab76d4bbb0e787cf3b044704daa69bd9a32c94f7efc80e4300ca38,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-05-19
+666392483ea40db8f3c8c589fd8a0406ed48f5fd804d9caf641903dd0311328a,F,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2,2,2021-05-21
+bc7666b126051e3cab513f63e96748f350a7113be4763f28d88ffb5e4eb1019b,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-05-21
+ee3f7ed37d75441c70806d6693b73b6debe53886d5f4d9e94cb730f002df10e1,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+6e8e089c2cfe22025b8b74bf9b4aca10371e807abe1b2eb3c8c5a833e0c8287c,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-21
+64d34344a0bcf35dea2e0c38693af3ce7f1082ceb3ddbb0dfcaf98d5cb150470,F,58,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1,2,2021-05-17
+a2b0496a4843aa6299fd41076bfbcdf4c3de1974b60f7c2e434b7639f8ca596d,F,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-19
+ac91f2562e153edb1ad0478b6341612a0033e4b17cf18b0b0cc98102e50343ff,F,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
+e1b82baf254b4182530f409dccae8ef5473f9a980a1e59077e4972098276d5ba,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-19
+ccc97db268db190482b42a1df2838fe9b75bbe4157e09b4aee1c92e51cdffd37,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
+7cf61954d85cc8829c75d216b30e5fe3180ede18931248138c3001a8f847c158,F,57,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-17
+512ebdc69faaa32afb218419ec688b86a53b466229d361b4bf92179c8b7c06a3,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+7787efba0d4610bc4709a11a77f5687de76bf24f2e38218906c3ffeb912e6a28,F,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+26b5fba7ffbbe4734bf882412ee242a71650d5f0e5350073718dbbfbe1eb3ebd,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+05bd6e5d01e425c149d30108c21a25c77a4fb9eba694738a1c555468210144e7,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-17
+1f50a8d86be49a09b89a409154ab33c96b04751d211a1ecd974172d181105218,F,55,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-22
+30394c230b19cafe39df227e651bf1f2c6c61144515fd85fb083cf6268938ebc,F,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
+25b8daf39a6ba1c8fc547361bbc47005d8348175da3b722fa1391480e54c5127,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-18
+f0015a338cf6e6a8268399b22265c7efef351cb056fbbb90d3f060df7576e99c,F,54,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+988d5da34ad1cf00d6025e28966a038882857a13e35e535c2b674dece55d54c7,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+ab58b74cf4a44f90f45deccb3653b55d6cf6075e0fea310587986a39bf8c8be1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
+ab3e74f1f6d924c15b94db64cdf344046ea273ae0d901b1ae0f4597b88a0ed73,F,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-18
+53e1ea8f7208406dba3de24bf64579ada41bb9238dee03a4b5e660460b142ade,F,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+784a11004d84de2920705d9bc6c9240f1c17bbe06ee6c875401f71685ff0d551,F,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+a42c719a9cd964b577fe04443cb29f43075d8b6b15b6e9e453b34c8b494b839d,F,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-19
+9cdaa9cd380970ac2241552c6c7b9e95968e275e4cdcf2587636bcfc15f7f82c,F,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-18
+e422fb3137583b988d82a11f2e32c8668e4df1e1ed703574dd56b8b330edb996,F,52,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-22
+10356cc8a6dd0f6af30070d3a35c998102476c6ea2fbc6e2e4b783d6fa9d17df,F,52,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-20
+2c7f4fabb995ce7df2e9ced5267464aa2ca5b60fa57535f3c9d5270c3cb8de32,F,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+dd7277188c15fb625afe2dd6f4b6168e42b00a30e6885425b378c8b817fe6521,F,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-19
+c2df0da41345fd59629cf538a0c009eb6bc7ef727b5088bd02f433dcdd1540c4,F,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2,2021-05-22
+ee697f3bd003909eb185fbdff8f16cb493554764618fe3617160a22a70d24b7a,F,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-18
+86b190962b35a47c1b0d28e0ff79dc552cf331f3068fae39300d909dc700a4da,F,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-19
+d3181b72141628a80379d5d700b104ecb42c54989a57012d86e66ab02dba0097,F,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+5205539f7c040695b47aad9e415690c310782503da22d1a8a17c0b9df15be901,F,49,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-21
+6aa7462b4d77b1be1f649735c56fda69a77eed38e279a9da6465b2d28027b84f,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-20
+3f23aa348ea093f5ddf93f833c0acf0c37bebade4c1fd853f937066b671e1550,F,47,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-20
+d66a068f3425e2c3623bb5154f336f084cdd08fd5dfb2122b3dca9f73dfa0cc4,F,45,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1,2,2021-05-21
+b7fcb2afb7531752415fb0f5a6f477dbcaa1eaf2a9d849a873b304798342adb8,F,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-17
+92f97342b089e51d5df2463b1372f9643a2ff5448fb0676f8ff41ed9969af3d3,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1,2,2021-05-21
+518f53fb6d6d6835daa56c331e05e0403e05a191c710d52dbdfa538d78aaf836,F,44,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-21
+61cf4b2b633591aa95aa83b05cbfb15cc352b2a1458928120ba885cf46158431,F,44,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+4a59bf1aede883befec1d152c2252990182263ffb86048b058ac321429d1b0dd,F,44,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+38afc19836190bbb65cad0009c27d3e782003fff14e6a9849e602c777f5b85fb,F,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-21
+a538c92745cffdba570aea2585743e57d6eea1aa585ad00ff9d20d79cd1eca74,F,43,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-05-22
+0faa52d77052d9843251b492cb7d322ad32e854498b6d1c1da7772ba3c07f94a,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-05-22
+f5f0c97043f73955fd3524f73d99da6e1c06c8423100b8fff8f03a6309cfba8a,F,40,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-05-22
+51d5bcbc639b2ca255c2f419d92b9973670509d710f7852722917946c89ea52c,F,39,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-22
+242d14dbd9b771ce253d884b5693a5911b3fae19a47397858e84fbee42b18c71,F,39,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+9297f619de4e4ba6894a0ab09c7082235fb3c945202c22ef21b06ce47c873146,F,38,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+75f5dcd51beb1fdd8745315ce28d731eae65cb80b8e658ccd89bd2c1ea7526f9,F,37,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+b212989600e5360a285ee5b4847648ee9c2618dbabaa3d4cbf3298336b41717f,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-05-18
+3611d1ed5226f585ae3f6e07651f4c3deb21c0d44e7bbbc70a135d7b16b00a66,F,34,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-05-19
+bb4f1248472f1138cedef2f2d51a5880669d2d9efc0f86886232c8225ea3519b,F,30,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2,2021-05-19
+250ca6d3bad59658b97ac052f52be028bb686cf6546eb0a73e6dda022df2a50a,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-05-18
+d2b723ef1de55b73b247ddd04564c246dec124c7e6750cc82c5ad8ed6e359629,F,18,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-05-22
