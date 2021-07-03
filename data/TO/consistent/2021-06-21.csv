@@ -577,7 +577,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,59,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-25
 1,M,59,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-21
 1,M,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-21
-2,M,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+3,M,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 1,M,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-21
 2,M,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 23,M,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
@@ -901,6 +901,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-06-21
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-22
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-26
+1,M,55,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 5,M,55,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-22
 2,M,55,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-06-25
 5,M,55,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-06-23
@@ -1090,6 +1091,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Aquaviário,1,2021-06-24
 1,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-26
 1,M,53,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-23
+1,M,53,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 2,M,53,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-24
 1,M,53,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-23
 2,M,53,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-22
@@ -1297,6 +1299,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-22
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-22
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-21
+1,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 2,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-24
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-23
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-22
@@ -1874,6 +1877,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 10,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-06-21
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-22
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1,2021-06-23
+1,M,46,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 2,M,46,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-24
 3,M,46,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-23
 2,M,46,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-22
@@ -2240,6 +2244,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2,2021-06-26
 1,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,1,2021-06-24
 1,M,43,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-21
+1,M,43,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 1,M,43,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-24
 1,M,43,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-23
 4,M,43,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-22
@@ -2880,6 +2885,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-26
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-22
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-21
+1,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 3,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-23
 4,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-22
 7,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-21
@@ -6269,7 +6275,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,52,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-22
 1,F,52,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-21
 2,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-23
-1,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
+2,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 1,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 40,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
 73,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-25
@@ -6812,6 +6818,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-06-24
 1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-06-21
 1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Guarda Municipal,1,2021-06-21
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-27
 10,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
 29,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-25
 14,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-24
@@ -7644,6 +7651,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,40,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-22
 1,F,40,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-21
 1,F,40,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,2,2021-06-26
+1,F,40,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-27
 2,F,40,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-23
 5,F,40,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-26
 23,F,40,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-25
@@ -7889,6 +7897,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-22
 1,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-22
 1,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-21
+1,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-27
 2,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-25
 6,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-24
 11,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-23
