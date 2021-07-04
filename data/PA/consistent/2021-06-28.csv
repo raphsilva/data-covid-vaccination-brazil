@@ -787,6 +787,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-06-30
 49,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-02
 2,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-02
+1,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-04
 1,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-03
 24,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-02
 53,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-01
@@ -1723,7 +1724,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-06-28
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Veterinário,2,2021-06-29
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
+1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
+1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 2,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-28
@@ -2000,7 +2003,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-02
 1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-28,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+29,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 2,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
@@ -2075,6 +2078,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,53,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-06-28
 1,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-02
 1,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-02
+1,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-04
 1,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-06-30
 5,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 2,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -2084,6 +2088,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 10,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
 1,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-01
 2,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
+1,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 3,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
 1,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-28
@@ -2166,6 +2171,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-06-30
 4,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-06-29
 4,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-06-28
+1,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-07-01
 1,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-06-28
 3,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2021-06-28
 1,M,52,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,1,2021-06-28
@@ -2214,6 +2220,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-02
 1,M,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-02
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-01
+1,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -2294,6 +2301,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,51,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2,2021-06-29
 1,M,51,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2,2021-06-28
 1,M,51,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,2,2021-06-29
+1,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-07-02
 1,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-07-02
 1,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-07-01
 3,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-06-30
@@ -2396,7 +2404,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-30
 1,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 2,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-28,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+29,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+2,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 2,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
 1,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -2486,6 +2495,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-01
 1,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-03
+1,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
 2,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
 1,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-28
@@ -2538,6 +2548,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 27,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 3,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 2,M,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -3105,6 +3116,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,2,2021-06-30
 1,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
 1,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
+1,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
 2,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-28
@@ -3279,6 +3291,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-30
 16,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-29
 6,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-28
+1,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-07-02
 1,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-07-01
 1,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-06-30
 7,M,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-06-29
@@ -3398,6 +3411,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-02
 1,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 11,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 1,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 3,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 15,M,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -3482,7 +3496,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,43,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Civil,2,2021-06-29
 1,M,43,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-07-01
 3,M,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-44,M,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+47,M,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 2,M,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 1,M,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
@@ -3564,9 +3578,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-06-30
 1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-06-28
 1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
+1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-04
 1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-30
 9,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 3,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 1,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 15,M,42,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -3716,6 +3732,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,42,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-02
 1,M,42,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-02
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-06-30
+1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-04
+1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-04
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-29
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-28
@@ -4149,7 +4167,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-06-29
 2,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 2,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-35,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+37,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 5,M,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
@@ -4240,6 +4258,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-29
 1,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,2,2021-06-29
 13,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 5,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 3,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 16,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -4329,7 +4348,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 7,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-06-29
 2,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 2,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-43,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+45,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 7,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
@@ -4422,6 +4441,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-29
 1,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Nutricionista,1,2021-07-02
 1,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Nutricionista,1,2021-07-02
+1,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico Veterinário,1,2021-07-04
 1,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-06-29
 1,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Enfermeiro(a),1,2021-06-29
 1,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-02
@@ -4462,11 +4482,13 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1,2021-06-28
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 3,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
+1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 4,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-03
+1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
 4,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -4526,9 +4548,10 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,37,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Exército Brasileiro - EB,2,2021-07-01
 3,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-06-29
 1,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-02
+1,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-02
 1,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-816,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+818,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 2,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,M,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -4565,6 +4588,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-07-01
 1,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-06-30
 1,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2,2021-06-29
+1,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-07-01
 1,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-06-30
 2,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Ferroviário,1,2021-07-01
 2,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Ferroviário,1,2021-06-30
@@ -4663,6 +4687,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-01
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-02
+1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-02
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,2,2021-06-30
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,2,2021-06-29
 2,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
@@ -4678,6 +4703,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2,2021-06-28
 3,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2,2021-06-30
+1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,2,2021-07-02
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,2,2021-07-02
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-28
 1,M,36,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-07-02
@@ -4734,6 +4760,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,36,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,1,2021-06-30
 1,M,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-07-02
 1,M,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-06-30
+1,M,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-07-02
 1,M,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 6,M,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1685,M,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -4817,6 +4844,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-07-02
+1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-07-02
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-01
@@ -4825,6 +4853,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-02
 2,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-28
+1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,1,2021-07-02
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,1,2021-07-02
 2,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-06-30
 17,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
@@ -4857,6 +4886,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 2,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 4,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
+2,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
 4,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -4868,6 +4898,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Motorista de Ambulância,2,2021-07-01
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2,2021-06-29
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-06-29
+1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-06-29
 1,M,35,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2,2021-06-28
@@ -5194,6 +5225,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
 1,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-06-30
 20,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 3,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 5,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 11,M,33,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -5289,6 +5321,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,33,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,1,2021-07-01
 1,M,33,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Civil,1,2021-07-01
 1,M,33,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,2,2021-07-02
+1,M,33,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,2,2021-07-02
 31,M,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 4,M,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -5369,6 +5402,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-02
 1,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
 23,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 5,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 6,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 35,M,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -5534,17 +5568,20 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,32,Covid-19-AstraZeneca,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-02
 1,M,32,Covid-19-AstraZeneca,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-02
 2,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-02
+1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-04
 1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-02
 3,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-01
 2,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-06-30
 1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-01
 1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Aéreo,1,2021-06-30
 1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-01
+1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-04
 2,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
 1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 2,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-06-30
 1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-06-28
 16,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 4,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 6,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 24,M,31,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -5575,6 +5612,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-01
 1,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-07-02
 1,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-07-02
+1,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
 1,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
 1,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-01
 1,M,31,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-06-28
@@ -5689,6 +5727,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-06-30
 1,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-03
 24,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 3,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 8,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 24,M,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -5708,6 +5747,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-06-29
 1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Odontologia,1,2021-06-29
 1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1,2021-07-03
+1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-06-29
 1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
@@ -5828,10 +5868,12 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-03
 1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-02
 2,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
+1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-04
 2,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-03
 1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 2,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-01
 4,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
+1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-04
 3,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-30
 1,M,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
@@ -5931,7 +5973,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,29,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,1,2021-07-01
 1,M,29,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-06-29
 1,M,29,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Exército Brasileiro - EB,1,2021-06-28
-7,M,29,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+8,M,29,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,29,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 1,M,29,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,M,29,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -5942,6 +5984,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,29,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,2,2021-06-28
 1,M,29,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-29
 1,M,29,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,2,2021-06-30
+1,M,29,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1,2021-07-04
 2,M,29,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1,2021-07-01
 2,M,29,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1,2021-06-29
 3,M,29,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1,2021-06-28
@@ -6011,6 +6054,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Portuários,Trabalhadores Portuários,2,2021-07-02
 1,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Portuários,Trabalhadores Portuários,2,2021-07-02
 21,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 3,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 9,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 34,M,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -6040,6 +6084,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
+1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -6047,6 +6092,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-29
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-29
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-06-29
+1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-29
 1,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-06-29
@@ -6243,6 +6289,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-06-29
 1,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 15,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
 1,M,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -6485,6 +6532,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
+1,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 3,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 3,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
 1,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-28
@@ -6539,7 +6587,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,25,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,1,2021-06-30
 1,M,25,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Exército Brasileiro - EB,1,2021-07-01
 1,M,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-06-28
-5,M,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+6,M,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 4,M,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,M,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
 1,M,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -6620,6 +6668,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-03
 1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-29
 1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
+1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
 1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-29
 1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-01
@@ -6666,7 +6715,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,24,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Exército Brasileiro - EB,1,2021-07-02
 1,M,24,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Exército Brasileiro - EB,1,2021-07-02
 1,M,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-16,M,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+17,M,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 3,M,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 2,M,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -6751,8 +6800,10 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-30
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,2,2021-06-29
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
+1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-28
+1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-02
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-02
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-06-28
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-06-29
@@ -6887,6 +6938,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-28
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,2,2021-06-29
 3,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
+3,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-29
 2,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-06-29
@@ -6898,6 +6950,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-06-29
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-06-28
+3,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2021-07-01
 2,M,22,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
 1,M,22,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-06-30
@@ -7108,6 +7161,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,1,2021-06-29
 1,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
 2,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-06-30
+1,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-04
 1,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
 12,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 1,M,20,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
@@ -7128,7 +7182,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-28
 1,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 1,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
+1,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
 2,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-06-29
+2,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 2,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-30
 1,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-29
@@ -7260,7 +7316,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,19,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,1,2021-07-01
 20,M,19,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-06-29
 4,M,19,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-06-28
-7,M,19,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+8,M,19,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,19,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 2,M,19,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,M,19,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -7346,7 +7402,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,18,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-07-02
 1,M,18,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-07-02
 1,M,18,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Marinha do Brasil - MB,1,2021-06-29
-3,M,18,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+4,M,18,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,M,18,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,M,18,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 22,M,18,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-01
@@ -7412,6 +7468,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-06-29
 1,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-06-28
 1,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2021-06-29
+1,F,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-07-01
 1,F,90,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-03
 1,F,90,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-01
 1,F,90,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-06-29
@@ -7491,6 +7548,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 6,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-06-29
 8,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-06-28
 1,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2021-06-30
+1,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2021-07-01
 1,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-06-28
 1,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -8167,6 +8225,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-07-02
 2,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-06-30
 45,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-02
+2,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-04
 1,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-03
 19,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-02
 49,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-01
@@ -8297,6 +8356,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 4,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-28
 6,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
+1,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-04
 5,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 8,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 14,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
@@ -8354,6 +8414,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-01
 23,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 2,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-04
 2,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-03
 3,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 17,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
@@ -8872,6 +8933,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,F,58,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
 1,F,58,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-06-29
 1,F,57,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
+1,F,57,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,57,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-06-30
 1,F,57,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-03
 2,F,57,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -8884,6 +8946,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
 1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-28
+1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -8919,6 +8982,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-28
 1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 16,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 3,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
@@ -9101,6 +9165,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,55,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-30
 8,F,55,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-29
 7,F,55,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
+1,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-01
 1,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-29
@@ -9576,9 +9641,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 21,F,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-29
 5,F,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
+1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-01
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-28
+1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
@@ -9855,6 +9922,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 10,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-29
 1,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-28
 1,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-07-03
+1,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-07-02
 1,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-06-29
 4,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-06-28
 1,F,49,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2,2021-07-02
@@ -9877,6 +9945,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 3,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 3,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
+1,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-04
 24,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
 6,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 33,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-01
@@ -10090,10 +10159,12 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-06-29
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-06-29
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
+1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-01
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-30
 2,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-29
+1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-02
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-02
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-30
@@ -10183,6 +10254,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
 5,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-01
 8,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-30
@@ -10226,6 +10298,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 14,F,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
 1,F,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,2021-06-29
 2,F,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1,2021-06-28
+1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-01
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
@@ -10330,6 +10403,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-29
 1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2,2021-06-29
 4,F,46,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
 3,F,46,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 3,F,46,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-01
 15,F,46,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-30
@@ -10512,6 +10586,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
 1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-02
+1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-02
 2,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-30
 1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-03
@@ -10592,7 +10667,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,44,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Guarda Municipal,2,2021-06-30
 1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-01
 1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-35,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+36,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 3,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -10698,6 +10774,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-01
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
+1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-30
 2,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-28
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 2,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
@@ -10715,6 +10792,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-03
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-07-01
+1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-01
 1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-30
@@ -10766,6 +10844,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,43,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,1,2021-07-01
 1,F,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 32,F,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 3,F,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,43,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -11053,6 +11132,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-28
 2,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-02
+1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-02
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
@@ -11112,6 +11192,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 58,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 2,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 3,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -11192,6 +11273,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
 1,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-06-30
 4,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 2,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 3,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 15,F,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -11224,6 +11306,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-29
 1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-07-01
 1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-06-29
+1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-01
 1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-29
@@ -11453,6 +11536,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 39,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 9,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -11773,6 +11857,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1941,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
 2,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 9,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-01
@@ -11783,6 +11868,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-30
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-02
 5,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-02
 2,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-02
@@ -11793,6 +11879,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 7,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 2,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
 5,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -11810,6 +11897,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-29
 2,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Cozinheiro e Auxiliares,2,2021-07-01
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,2,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,2,2021-07-02
@@ -11851,7 +11939,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 3,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-1091,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1092,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 3,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 4,F,37,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -11925,6 +12013,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 9,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 5,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-01
+1,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-07-02
 1,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-07-02
 1,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
 2,F,36,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-02
@@ -12035,7 +12124,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,36,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,1,2021-07-01
 4,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-06-29
 1,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-2084,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+2085,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
 7,F,36,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -12168,6 +12258,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,1,2021-06-29
 1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 3,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
+1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 3,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
 8,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
@@ -12323,6 +12414,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-02
 1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-30
 1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-29
+1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico Veterinário,1,2021-07-04
 1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
 1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-03
 1,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
@@ -12340,6 +12432,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 22,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-29
 2,F,34,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
+1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-30
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-01
@@ -12355,6 +12448,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-06-29
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,2,2021-06-28
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,2,2021-06-29
+1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-02
 1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-07-01
 2,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-29
@@ -12547,6 +12641,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,2,2021-06-29
 1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2,2021-06-29
 1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2,2021-07-02
+1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2,2021-07-02
 1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-01
 1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-06-29
 1,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-06-29
@@ -12598,7 +12693,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,33,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 1,F,33,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,1,2021-07-01
 2,F,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-33,F,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+34,F,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 1,F,33,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
@@ -12663,6 +12758,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,33,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-29
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-03
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-02
+1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-04
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-02
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-01
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-30
@@ -12689,6 +12785,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
 2,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-06-30
 8,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 4,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 1,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 13,F,32,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -12740,6 +12837,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Enfermagem,2,2021-07-01
 1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,2,2021-06-29
 1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
+1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,F,32,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2,2021-06-28
 1,F,32,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-07-02
 1,F,32,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-07-01
@@ -12773,7 +12871,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,32,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2,2021-06-28
 1,F,32,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,2,2021-06-28
 2,F,32,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
-19,F,32,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+20,F,32,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,32,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 1,F,32,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,32,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -12879,6 +12977,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-06-30
 2,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-06-29
+1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 2,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 2,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
@@ -13064,6 +13163,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-06-30
 1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-06-29
 1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
+1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,F,30,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-07-02
 2,F,30,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-06-30
 1,F,30,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-06-29
@@ -13101,7 +13201,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,30,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 1,F,30,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Civil,2,2021-06-29
 1,F,30,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,1,2021-06-29
-27,F,30,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+28,F,30,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 2,F,30,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 2,F,30,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 3,F,30,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -13174,6 +13274,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-30
 2,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-01
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
+1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-04
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 2,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-01
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
@@ -13181,6 +13282,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-30
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-03
+1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-04
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-03
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-01
 1,F,29,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,2,2021-07-02
@@ -13326,11 +13428,13 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,29,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-30
 1,F,29,Covid-19-AstraZeneca,Comorbidades,Obesidade Grave (Imc>=40),1,2021-06-29
 1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-03
+1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-04
 1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-01
 2,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 2,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-01
 2,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-06-30
+1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-04
 1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-03
 2,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-01
 2,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-06-30
@@ -13357,10 +13461,12 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Odontologia,2,2021-07-01
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Odontologia,2,2021-06-28
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 2,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-01
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-30
 4,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-06-29
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Terapeuta Ocupacional,2,2021-06-29
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-01
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-06-29
@@ -13615,7 +13721,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,27,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,1,2021-07-01
 1,F,27,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 1,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-06-30
-22,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+23,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-30
 3,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -13676,6 +13782,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 2,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
+1,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-04
 1,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-03
 1,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 1,F,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-01
@@ -13712,6 +13819,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2,2021-06-30
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
+1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-02
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-07-01
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,2,2021-06-29
@@ -13730,7 +13838,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fonoaudiólogo,2,2021-06-30
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fonoaudiólogo,1,2021-07-01
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-02
+1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-02
 2,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-06-29
+1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-01
 3,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-29
@@ -13848,6 +13958,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-06-30
 1,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
 2,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 2,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 1,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 14,F,25,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -14004,6 +14115,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-29
 1,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-01
 3,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
+1,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-04
 2,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-03
 3,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-02
 11,F,24,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-01
@@ -14027,6 +14139,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1,2021-07-02
 1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 2,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
+1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 9,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-29
 1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-02
@@ -14088,7 +14201,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,24,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 1,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-06-28
 1,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-13,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+15,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,24,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
@@ -14202,6 +14315,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-06-29
 1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-06-28
 1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
+1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-02
 1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-01
 1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-30
 2,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-29
@@ -14228,6 +14342,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-30
 7,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-29
 5,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-06-28
+1,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-07-02
 1,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-07-01
 6,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-06-30
 9,F,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1,2021-06-29
@@ -14245,7 +14360,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,23,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 2,F,23,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,1,2021-07-01
 1,F,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-10,F,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+11,F,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 2,F,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
@@ -14296,6 +14411,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,23,Covid-19-AstraZeneca,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-29
 1,F,23,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-30
 1,F,23,Covid-19-AstraZeneca,Comorbidades,Pneumopatias Crônicas Graves,1,2021-06-30
+2,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-04
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-06-30
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
@@ -14312,6 +14428,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-02
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-07-01
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,1,2021-06-30
+1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Auxiliar de Veterinário,1,2021-07-04
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-30
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-29
 1,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-28
@@ -14360,6 +14477,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
 1,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-06-29
+1,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-02
 1,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-01
 1,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-06-29
 1,F,22,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2,2021-06-28
@@ -14445,6 +14563,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,22,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-06-28
 1,F,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-01
 1,F,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
+1,F,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-02
 1,F,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,1,2021-07-02
 1,F,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-02
@@ -14477,6 +14596,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Terapeuta Ocupacional,2,2021-06-29
 1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-01
 1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-06-29
+1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-02
 1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-01
 1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-06-30
@@ -14541,7 +14661,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,21,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 3,F,21,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,1,2021-07-01
 1,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
-12,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+13,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+1,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-02
 1,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-01
 2,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,21,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -14636,6 +14757,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2,2021-07-02
 1,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2,2021-07-02
 1,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-02
+1,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-02
 1,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,1,2021-06-28
 1,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-06-29
 3,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2,2021-07-02
@@ -14679,7 +14801,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,20,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
 1,F,20,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,2,2021-07-01
 3,F,20,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Militar,1,2021-07-01
-15,F,20,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
+16,F,20,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-02
 1,F,20,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-29
 1,F,20,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-06-28
 1,F,20,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-03
@@ -14877,6 +14999,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,18,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1,2021-07-01
 2,F,18,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1,2021-06-30
 1,F,18,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1,2021-06-29
+1,F,18,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-01
 1,F,18,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-06-30
 1,F,18,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,1,2021-07-01
 1,F,18,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Civil,1,2021-07-01
