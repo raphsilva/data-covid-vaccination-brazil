@@ -91,4 +91,4 @@ Caso queira citar a fonte dos dados, use o próprio endereço do repositório.
 **Siga nosso bot** que posta gráficos dos dados sobre covid:
 **[dataviz_sp](https://twitter.com/dataviz_sp)**.
 
-![](dataviz_demo.png)
+[![](dataviz_demo.png)](https://twitter.com/dataviz_sp)
