@@ -51,6 +51,26 @@ O diretório `inconsistent` contém dados com possíveis problemas de consistên
 
 O diretório `wrong_date` contém os dados cujas datas estão claramente erradas. Sua organização é idêntica ao do diretório `consistent`.
 
+## Limitações
+
+Alguns problemas foram encontrados para fazer este trabalho de organização de dados. Se você tem sugestões para colaborar, entre em contato [pelo formulário](https://forms.gle/1Yvy67id5pPteGzz9) ou pela seção `Issues`.
+
+### Inconsistências
+
+Alguns microdados possuem inconsistências claras, por exemplo: a amostra informa que a pessoa tem 90 anos mas vacinou por estar no grupo prioritário de 60 a 65 anos. Esses problemas são dos dados do OpenDataSus e provavelmente refletem erros na coleta de dados. Nos dados agregados disponibilizados neste repositório, esses erros são mantidos como na fonte.
+
+### Duplicidades
+
+Nos microdados obtidos do OpenDataSus, cada paciente possui um código identificador. Um problema observado é que muitos IDs aparecem de forma duplicada, como se a mesma pessoa tivesse sido vacinada várias vezes. Os dados com IDs duplicados foram separados, pois se considera que as informações que eles contém podem estar incorretas. Esse problema afeta cerca de 20% dos microdados. Veja a documentação dos dados para mais informações. 
+
+### Atraso e discordância
+
+Em alguns testes, os dados de vacinados dos últimos 14 dias forneceram um total de vacinados muito inferior ao esperado. Isso pode ser um indicativo de atraso na disponibilização de dados do OpenDataSus. 
+
+Os dados obtidos não necessariamente concordam com outras fontes. Por exemplo, o repositório de [wcota](https://github.com/wcota/covid19br), que não dá detalhes sobre como coleta os dados, registra um número de vacinados diferente, como mostra o gráfico abaixo. O atraso de dados do OpenDataSus também contribui muito para essa diferença. 
+
+![](comparação_totais.png)
+
 ## Licença
 Você pode usar como quiser os dados e o código-fonte disponibilizados. A fonte de dados é de domínio público. 
 
