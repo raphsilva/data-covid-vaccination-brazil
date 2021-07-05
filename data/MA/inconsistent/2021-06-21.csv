@@ -1,5 +1,6 @@
 paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
 4c9b71874012283ae9359d089145e033474fe8076aa5b2cee22daf523c1d517b,M,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-25
+4c9b71874012283ae9359d089145e033474fe8076aa5b2cee22daf523c1d517b,M,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-25
 b638c54e8804da5329e5c0fc93c66d9673d282f629c61e706e43476099c7ff20,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-23
 fabaac613525d12bf578ae6087eae9ea8767b2206518d52e2cfc9a30186c8044,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-24
 841291dcb1cd5ad6310611b2fedad62e5a2e0f0e8eaad070be87f901ab8ed357,M,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-23
@@ -7,32 +8,33 @@ fabaac613525d12bf578ae6087eae9ea8767b2206518d52e2cfc9a30186c8044,M,60,Covid-19-C
 64655922478e4bacccbd2b3c2ba392f4b4c19a8b08478419683d5825cbd80a41,M,54,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-24
 c3ff9c8d9039a1b68abe21f351a5a010ab9445479af109a46c76fa2f3f272267,M,49,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-23
 90a18faadb4638ad098d1d122e15742bda3310a754c417479e0b4aa65e28dca1,M,48,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
-90a18faadb4638ad098d1d122e15742bda3310a754c417479e0b4aa65e28dca1,M,48,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
 72c41fb278d280bea1528ab241feefc97d8e8fa5633a1ccc787fe4ff10bd4fb2,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2,2021-06-23
-a8e32157615f2ba8f3cce502b049f4a18865de55089975e9dede77d956a1e8a8,M,42,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
 a8e32157615f2ba8f3cce502b049f4a18865de55089975e9dede77d956a1e8a8,M,42,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
 669abb34f2ca58206163d812077abe75daf0b23bc08ca319cddb2a3d5e082620,M,37,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-24
 e795391e08bcd49965da1b915ed6324cdb071d4aa7bab4831bc63be792bdc7e7,M,35,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-24
 165dae78938df5ddd0095ce6b316f9bf1916515d3aa41e0d4d748e163ee6bf8d,M,27,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-24
 591b755e9cd0b46fe98ffeba61a22db4b930e2f7273aa824bc4a075a995f55b6,M,23,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-23
 ae579943f2342f95ef438ad0d8d1e9f2c897a7ce43d75d8305702007235f9f9a,M,19,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
+ae579943f2342f95ef438ad0d8d1e9f2c897a7ce43d75d8305702007235f9f9a,M,19,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
 d9ede014558879835cd9192256e1a14886b50896d780514c0944a9f3318adb1a,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-25
+d9ede014558879835cd9192256e1a14886b50896d780514c0944a9f3318adb1a,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-25
+0f318f0e976ef1920e13bb6b0bf3267a0795f694573a7ea2cf04301a4273aea7,F,67,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
 0f318f0e976ef1920e13bb6b0bf3267a0795f694573a7ea2cf04301a4273aea7,F,67,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
 7508c3b75b04d449f30f067cd689f1029628176ec06fcf8ba43eff24c88ddc0a,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-23
 516b4788463927d23198c0c07bd21e86a81cd04deb43f186c65a1321e53d3757,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-25
+516b4788463927d23198c0c07bd21e86a81cd04deb43f186c65a1321e53d3757,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-25
 683310e620c52a46f63d471622e1f86896c585c6b6ec9c5f46f6bbc9bc6b4b81,F,57,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-24
 a929edaff0b92c484a0ffff25f8ecf5a34fa3d517093663b5879646fd4577633,F,56,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
+a929edaff0b92c484a0ffff25f8ecf5a34fa3d517093663b5879646fd4577633,F,56,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
 7f0741b3b12c0c4b34da2ef346f9da64c343dea0306628f73a9cde4d1d56f9ad,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
-7f0741b3b12c0c4b34da2ef346f9da64c343dea0306628f73a9cde4d1d56f9ad,F,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
+e20f8c9ad432f5fb2593c8a326c78f400b29de9c21ce72194c522201cc86c4bd,F,51,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
 e20f8c9ad432f5fb2593c8a326c78f400b29de9c21ce72194c522201cc86c4bd,F,51,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-25
 cf22e8a00443eaedae10e9d87d7307aacf226da409d5a03f546b81d0a53ef6f9,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-22
 0703ff8817780a3c931574ae753d27844d7a0df5c8e3959399e7102e428d35d3,F,48,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-24
 38d8f04dfb004263e003f7de5ecc6d9f4c8d8c83b2c2d6afa8e184adb07577b7,F,47,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
-38d8f04dfb004263e003f7de5ecc6d9f4c8d8c83b2c2d6afa8e184adb07577b7,F,47,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
+ea3f6df61d90f83928467c1d86f49446f30388e6bbb8e8234c0c0bc68f5d3ee1,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-25
 ea3f6df61d90f83928467c1d86f49446f30388e6bbb8e8234c0c0bc68f5d3ee1,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-25
 fcc74ac1b04ae52065a0ad72fae3c2fdf9547b4e9e078d343fcb806193bae3e1,F,42,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
-fcc74ac1b04ae52065a0ad72fae3c2fdf9547b4e9e078d343fcb806193bae3e1,F,42,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-21
-e845131db6a5efa47c3cbb1c7de27ffc12619414c364af076741fcd829003c2e,F,41,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1,2,2021-06-21
 e845131db6a5efa47c3cbb1c7de27ffc12619414c364af076741fcd829003c2e,F,41,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1,2,2021-06-21
 42af7762e2b119e26db1b02c50bf3708b85e1dd17952f1180aede9dee7b2d7c2,F,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-24
 bb962ad9a1da2d88517178d8ca67c12ce7d45f25322b97951ddd02e6cfa28f9d,F,30,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-23
