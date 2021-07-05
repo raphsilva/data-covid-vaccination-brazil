@@ -50,3 +50,25 @@ O diretório `inconsistent` contém dados com possíveis problemas de consistên
 ### `wrong_date`
 
 O diretório `wrong_date` contém os dados cujas datas estão claramente erradas. Sua organização é idêntica ao do diretório `consistent`.
+
+## Licença
+Você pode usar como quiser os dados e o código-fonte disponibilizados. A fonte de dados é de domínio público. 
+
+Se você pretende fazer acessos automatizados, preencha [este formulário](https://forms.gle/1Yvy67id5pPteGzz9) para ser avisado de eventuais mudanças que possam afetar a automatização.
+
+Esteja ciente das limitações descritas na seção anterior, e que podem haver outros erros não identificados. Não existe qualquer garantia para o conteúdo fornecido.
+
+Caso queira citar a fonte dos dados, use o próprio endereço do repositório.
+
+## Contato
+
+* [Linkedin do autor](https://www.linkedin.com/in/raphael-da-silva/)
+
+* [Enviar mensagem](https://forms.gle/1Yvy67id5pPteGzz9)
+
+## Twitter
+
+**Siga nosso bot** que posta gráficos dos dados sobre covid:
+**[dataviz_sp](https://twitter.com/dataviz_sp)**.
+
+![](dataviz_demo.png)
