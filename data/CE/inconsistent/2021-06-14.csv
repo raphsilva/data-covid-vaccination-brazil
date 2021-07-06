@@ -1,14 +1,16 @@
 paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
 bc052ebd7ec30b0cdc6bd5ddabb2a981c48526a4d48b2c59545ab1e3a7c35b6a,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-14
+bc052ebd7ec30b0cdc6bd5ddabb2a981c48526a4d48b2c59545ab1e3a7c35b6a,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-14
 89c3d5c6f5519e27cb787e30fcd9f1025d812ddb137dfb877a471d76f73272e5,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-16
 ad245980c2010dd7f471ba12b7038045f9f9199ff0a9c0d14699e760d1e26fbb,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 f5be91a7bbe393e95138e9e8865f2fdeb40a0a98b16308a9ea6e99a82781734b,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
+f5be91a7bbe393e95138e9e8865f2fdeb40a0a98b16308a9ea6e99a82781734b,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 27faa6ca0c5d9f023dfaf0af7b65c95ebeece5dbe6299d41a29352987b542c69,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 069d6568a9e8a0a87475498a460b4969440c4909a04ab12436fec5af8502c9f8,M,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-06-14
-fbb8b93cd3184be248872aed31f5001d987697651a1984511da8c3e772b8dbee,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
+069d6568a9e8a0a87475498a460b4969440c4909a04ab12436fec5af8502c9f8,M,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-06-14
+ef54a54871c6756618416e9cc44093ca68f4e4198ed32bcf039e2203ffcad1af,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 fbb8b93cd3184be248872aed31f5001d987697651a1984511da8c3e772b8dbee,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 ef54a54871c6756618416e9cc44093ca68f4e4198ed32bcf039e2203ffcad1af,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
-66a7bca6b3050ffe37d55bae7951968ca7e81cf305aeb67aa5b3537c7d65f38b,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 819ba6a816f9405dd5917f818b450c20323cbae69a6ee436dcf11ce40e5582ff,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-16
 66a7bca6b3050ffe37d55bae7951968ca7e81cf305aeb67aa5b3537c7d65f38b,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 9b82b88b63c9897dfaa49b72eac90df33566e620e2a019f913c02c56c7c3b61e,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-17
@@ -21,28 +23,31 @@ b9f1e315a138e7e45871819aa8bb133ab6bb585e6106d5345bb5d3c5a370cdbc,M,44,Vacina Cov
 9e82103dc9920af679f78037a785956323a93cb1fa2ad506be86473c564eb1c8,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 f0330c9ecf43438bd437d792507248fa10eceef35a2b2895a5d476ad722f0549,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-20
 783194e870ce3533a1fa3bd072a9aaf30a3b241dcdd9c716863663a6d8e2d493,M,37,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-14
+783194e870ce3533a1fa3bd072a9aaf30a3b241dcdd9c716863663a6d8e2d493,M,37,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-14
 43303b2751f66b2d4f75c45b118e9f2ccb8c8d6913166d0c0843e5e1db1f6a60,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2,2021-06-14
+43303b2751f66b2d4f75c45b118e9f2ccb8c8d6913166d0c0843e5e1db1f6a60,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2,2021-06-14
+99e4b737dd6c63a208393fa9c22615add8a6423134f5ea6b76f5bcb8b35c84b7,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2,2021-06-14
 99e4b737dd6c63a208393fa9c22615add8a6423134f5ea6b76f5bcb8b35c84b7,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2,2021-06-14
 9f07437fde79ff756a1df44756b2789fede07bddadfb2960d458b5444f91e6f8,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2,2021-06-18
 c641b5d1e0ad8889d90eea07e75e4dab216a3a9ec5e8ddb25b171f5420058a2c,F,62,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-18
+389a03e69f5e904aa281ef3d18e87a8ba722e798b90a03c195527b37f333f80b,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 45c1ed09239e37e4292430fc5cd4f8ab608f856d18366b7e48dc4a434825209e,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-18
 389a03e69f5e904aa281ef3d18e87a8ba722e798b90a03c195527b37f333f80b,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 b6284da57dbc75ea4f8cf9b1ce4495952316f6951f345b95c6044338194a6621,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 bea711a71663d3aab50cd73f6a32229a7afa97b8c6c2c19230d854777627533d,F,56,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 551a582e6a19e0800e001d70b6de9da55fa76d7d2d8a0a230b1649923c7fcbd0,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-18
 84ee48932e7eb8e833129f827d38c4c0ef89e85d1f16a1698ec2636165906fdb,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
-84ee48932e7eb8e833129f827d38c4c0ef89e85d1f16a1698ec2636165906fdb,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 2f6ec2df85c57a471cb41d2c723bed32d4f44ea3408ac184a085f44de3d166ad,F,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-16
 539071a50f8d91b6fbf31cb082fc810496fc07965f3e58f36b71207f8d4d87f8,F,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-17
 b0065c9959753a6cdebd4c0a5c025d9a634920d3b77984bde04169d5a3c13b46,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
+f23351ea79a7be51c864b6aff8efb511c32777000ad43b928eedba2db5e6f4dc,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 4f157d650402a02021962a1e7d629a0de0b0423db5d2ab62a322a9f0587dfbde,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 019a225acdcbaf38f0413908ff61b5cfd73e82f5172e71c73dd58460a3ff3de7,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-16
 f23351ea79a7be51c864b6aff8efb511c32777000ad43b928eedba2db5e6f4dc,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
-bb132601a1c9d218c93ae75783e91bd58502e4a56debbc6dacbc10d6865d23ba,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
+9873b6a7e8ffd14d8bd49de8f81be645ecb18f7f25fdaf722592f0504b7bbc85,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 bb132601a1c9d218c93ae75783e91bd58502e4a56debbc6dacbc10d6865d23ba,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 9873b6a7e8ffd14d8bd49de8f81be645ecb18f7f25fdaf722592f0504b7bbc85,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 69eb5fb7599b81d16b3dade02d1df0e664ea0c3c9d49a32abc8ed1dedcefe393,F,49,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-16
-4299824821ca041a06a3f5a38ee2b93940f9535e6718ffcd53760222f8a84bd1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 ac44a812dc11416c755d2de76362a1e681d0079a3e7e9f028891d4efa7cd41b2,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-16
 4299824821ca041a06a3f5a38ee2b93940f9535e6718ffcd53760222f8a84bd1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-15
 9efca7064ba307fb89cb120cc9eb95d64f18eead9baddb8e19ac8b874acea61b,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
@@ -55,5 +60,4 @@ de995d55d3179e3a560ef470a0374d98184595fa6c1be982d6d12c09cea43526,F,44,Vacina Cov
 d19ede6a07553b09f71002ec0fbfcc043abf6239e18e8bbdaf69349061cdded3,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-18
 fee4b5c74bcc64efa21a74323a730369e18c809637a984e8498992aa5e0d1683,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-19
 f19e3021b07e407ac4dadf88bbf96a5664da674e300ecdb324740534ecfbf1bf,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-20
-6482ebed66755a8d5ca388876d8d93b598fd18bfdb38fb92ddef9ee41a33224d,F,39,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-15
 6482ebed66755a8d5ca388876d8d93b598fd18bfdb38fb92ddef9ee41a33224d,F,39,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-15
