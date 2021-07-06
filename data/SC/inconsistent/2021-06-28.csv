@@ -1,6 +1,8 @@
 paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
 6fb1abab20e0df2608c53a7a17dd0b055812288594d3f47f2293f7af841c6811,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-07-03
+6fb1abab20e0df2608c53a7a17dd0b055812288594d3f47f2293f7af841c6811,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-07-03
 da15a186044f780ba5b3ac91262e2d642c1a52bb2e0abb5f8067845bd3e94e60,M,57,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
+acdcdeb716a892867b1c0203cc775d63ab1cdc4822b9a18854c7121d8d7ce55e,M,51,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2,2021-07-03
 acdcdeb716a892867b1c0203cc775d63ab1cdc4822b9a18854c7121d8d7ce55e,M,51,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2,2021-07-03
 c2acb78a3b798024a0be546ed4ad89db312444eddbced897d8e4688ade653274,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-28
 0b32cb687b7ca9deb70a1c01f25abfdb6c78f907f9f0ee95a3b9c45cdd029d84,M,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-30
@@ -13,9 +15,11 @@ d4c0f209e4d09ded732e3046a72bc62a8d169e054326d2f8033bc3a3cbe9fe52,M,47,Covid-19-C
 cbc9b5333784b8d3a19995387fa1b7e1f31f3a440f08dfaa374db8575a128fcc,M,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
 b44688d937cd5788e6a4afe4bea2f38758e2a47e38294f66b14b221032fef6ba,M,42,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
 c4583a8e45464720043e8590b4397b92298b1f68694fb35043e814369c34248b,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,2,2,2021-07-03
+c4583a8e45464720043e8590b4397b92298b1f68694fb35043e814369c34248b,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,2,2,2021-07-03
 f8571784591af9eb031de4b695f62ccc3d708eecb1fbdff1795955b4984b39cc,M,41,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
 cd7b241f63f29c694328e6985e253d16dbb9c6872411c05f02b1ed2a4e46af2b,M,40,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
 fa7f2349833c675fbac511943f6837b5d827a873eff59525a925e0fe763d1d80,M,39,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
+c6a04755c834b36d9ec94a8b131564459dfd34bc21926c206e491f8e237e0cf2,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-07-03
 c6a04755c834b36d9ec94a8b131564459dfd34bc21926c206e491f8e237e0cf2,M,38,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-07-03
 f4f9da87a8e55d6b635f45d2d7fe5b15a0ae2bb4688667f8d2f71c16fd866ed0,M,38,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
 ea217414a9c1f7fc39385ec38fb053b21085e48a269968bad672f938896ca394,M,35,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1,2,2021-06-28
@@ -44,6 +48,5 @@ f1246050f251d913129bf53649eae21b05255282275c31d15da31d4831b7d11a,F,38,Covid-19-C
 948af15953d9bd41496e1bf8c797f265aeb2225a20669f2eb8da62991ea4cbd6,F,23,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-29
 be5cb1f5446812bf8cdffe37627dab7cb5cb32ae502a52abe015038ce53f3a50,F,22,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-28
 2cbab6b4e3f7cac74c2a9989e463c9f25aad2b48c65e5b61a7723e70d207eafa,F,21,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2,2021-06-29
-7f059a46d4b06bd0047fdd6fcc843f51a2b3128fda2f85c995533cefd6672b90,F,19,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-07-02
 7f059a46d4b06bd0047fdd6fcc843f51a2b3128fda2f85c995533cefd6672b90,F,19,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-07-02
 1afa19ed525b0ba5cc37cf940de53e8a89256185050ef97d752ee670841f2faa,F,18,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2,2021-06-29
