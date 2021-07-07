@@ -1,7 +1,7 @@
 data_aplicaçao,data_atualizacao,tipo,media_tempo_gasto,total
 2021-07-06,2021-07-07,consistent,2,457
 2021-07-05,2021-07-07,consistent,2,1959
-2021-07-04,2021-07-07,consistent,1,64
+2021-07-04,2021-07-07,consistent,2,64
 2021-07-03,2021-07-07,consistent,2,1262
 2021-07-02,2021-07-07,consistent,2,2013
 2021-07-01,2021-07-07,consistent,2,2436
@@ -19,7 +19,7 @@ data_aplicaçao,data_atualizacao,tipo,media_tempo_gasto,total
 2021-06-21,2021-07-06,inconsistent,0,2
 2021-06-21,2021-07-06,consistent,2,4812
 2021-06-20,2021-07-07,consistent,2,72
-2021-06-19,2021-07-04,consistent,2,1644
+2021-06-19,2021-07-07,consistent,2,1662
 2021-06-18,2021-07-05,consistent,3,2949
 2021-06-17,2021-07-05,inconsistent,0,4
 2021-06-17,2021-07-05,consistent,2,2752
@@ -31,7 +31,8 @@ data_aplicaçao,data_atualizacao,tipo,media_tempo_gasto,total
 2021-06-12,2021-07-06,consistent,2,1332
 2021-06-11,2021-07-06,consistent,3,2495
 2021-06-10,2021-07-07,consistent,2,2377
-2021-06-09,2021-07-02,consistent,3,1650
+2021-06-09,2021-07-07,inconsistent,0,2
+2021-06-09,2021-07-07,consistent,2,1685
 2021-06-08,2021-07-02,consistent,3,2173
 2021-06-07,2021-07-02,consistent,3,1521
 2021-06-06,2021-07-02,consistent,2,23
