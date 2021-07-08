@@ -7,8 +7,6 @@ paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categor
 9aad3d5c823eb4d577ccf30d916d61ebaea96c2cc8ba4a2eabbb04878a10cc46,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-16
 d1a4d6080e7027dd718273fd47878bf1d2ff516d0d2b020133a1c02b37dde951,M,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-16
 ab748bf491a817df7225ec1c6c2804c73c4cfb55458c85422e514128a58fe872,M,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2,2,2021-06-19
-ab748bf491a817df7225ec1c6c2804c73c4cfb55458c85422e514128a58fe872,M,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2,2,2021-06-19
-58648c17e70db40792ef49511bfffa0c2d40534f0db2f72e138b7d55f593cbb7,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-06-19
 58648c17e70db40792ef49511bfffa0c2d40534f0db2f72e138b7d55f593cbb7,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-06-19
 726fa2f43dbefab6e700ea90dd7e4529ad813705553f6a517dec2c5f008d63ab,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-20
 58985a93960a782f1277f0fb1466644dddf19ee4a9b03582e8d6d4972cda3fce,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-20
@@ -20,8 +18,10 @@ b2a0226c653fd99c76af74f3ca01d187f304f04b2818830de29c35e75686bf2d,M,60,Covid-19-C
 8481717a884dab2a63c5cf7f5ed9193fc17e42a31a34aa851a47ad79fc283d00,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-06-15
 067c6b88f43fd6e95fda06bb26b915b1221b6b0adb126468f1093717e9c1f6c2,M,56,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
 a8404a892b05117e66b48b68727264e6cd7f0072072959503ac881e9ddc96dd8,M,55,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
+a8404a892b05117e66b48b68727264e6cd7f0072072959503ac881e9ddc96dd8,M,55,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
 644fac3c1c8e12496caa1afe5e023a6c6b78b93bf4f939973ca95965e921f8a8,M,54,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-16
 ad9acd40af8a3887d603e0dca31978c93b01eef87002d1a734735f18d6b086e8,M,54,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-15
+a11a5d72dc9a41a671bc71a437b8d883cbbec227de2d1ae35aeef6f87b7af991,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-18
 a11a5d72dc9a41a671bc71a437b8d883cbbec227de2d1ae35aeef6f87b7af991,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-18
 b65a70a334d578097d1238dc5c69e04b4fd582f7b6466b7a239ff4987ec8956e,M,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-06-16
 bca5f72d033d88301296d6b04097f0193b62cad015a93eaec41f1d1c3a76ce9d,M,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2,2021-06-14
@@ -32,7 +32,9 @@ aa43aacfd92c137ace2bc64911cabf9203339538905d720879055b6c19358650,M,52,Vacina Cov
 2590b7e9cf037c7abad1398dbdc4066acd2cbda8f33c8e61a479b0a2dcabec72,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-16
 cc8f3fd75254038205edcab1519b00eed3ad88444fb0e390e4a0aaad9350e5c1,M,50,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
 0dd6aace29e708b5be8ab48c98806ecbdb018c833538f0ae876c146ca2a5f10f,M,50,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2,2021-06-18
+0dd6aace29e708b5be8ab48c98806ecbdb018c833538f0ae876c146ca2a5f10f,M,50,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2,2021-06-18
 1a4e288bce4a609089ebe0a01e7c93d642296fb2cbb609c7e9b9e0e9fcac34d6,M,46,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
+848a290986890f9866d8b270c4ecc0446f3b48b2198b504b76cf585087d51d15,M,45,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
 848a290986890f9866d8b270c4ecc0446f3b48b2198b504b76cf585087d51d15,M,45,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
 fa2aa741c69a2aa8eeef51e9e6eda2f2ca1ef22aa74a0ba9863e396e163ff541,M,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-16
 77b1b6d201e75c8346b2a1312f42c228d9731dfe906b4aff15e190c03a5859d5,M,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
@@ -43,8 +45,10 @@ ac1daa30be2d60d423970761bb8fdfcb2f255781e1c71142347c8696b9777165,M,43,Vacina Cov
 c327490b97bc044c3cee649ef21863ab46d17a31874ad9fa63d838e988e23ed8,M,37,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-14
 2bca048558e8ece756630d99d39793b222998edccc785f4e5539fcce2c8597c7,M,31,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-14
 fc59c5e5fdc60538e6fd33959785b127a011822b8dbece783db31b34a137dbd3,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Caminhoneiro,1,2,2021-06-18
+fc59c5e5fdc60538e6fd33959785b127a011822b8dbece783db31b34a137dbd3,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Caminhoneiro,1,2,2021-06-18
 9e9726e074ec7a920567f6cdc225297a4f8861b8ee4f2d24ba5ad3a5d4581328,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-06-14
 0fcc8360c56aea199c4fe9e64c82c85ba4e920400ec8f1e7c493858fb55c1693,M,27,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-14
+474cf5ea84ffaa15d71603ee1199ed4b657d555ff894597a0e2f1017ac72d19a,M,27,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,1,2,2021-06-18
 474cf5ea84ffaa15d71603ee1199ed4b657d555ff894597a0e2f1017ac72d19a,M,27,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,1,2,2021-06-18
 eea540bc9de86332bafbeb8ee475e284ceaf8d2768abfba58356d6e1eb34a522,F,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-16
 c9e63efc67d1a5a7fc68dfae964977f29ddda1c75a93b983d99ad7d9d62d73a1,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2,2021-06-16
@@ -54,13 +58,9 @@ f65e59a267dafebdeccbeb1e839d5de06d514488d712a6b431dcf8ed35f1d7ca,F,84,Vacina Cov
 a71d8611e04ad2dc7b4006e0643cf922fb6af65fc35b9f6564e6dca697160ec4,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2,2021-06-15
 abe1fc21ac36e959fa35cc320e956345303f2488592119682d15e72bc9ff0ffc,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
 243e7d64a8a7df392a2a34f7894abe887cff971ecaa2bbcd3f6af15c25d46a90,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-06-19
-243e7d64a8a7df392a2a34f7894abe887cff971ecaa2bbcd3f6af15c25d46a90,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2,2021-06-19
 b07194c7c66dbcb57f2316470e115a1aa02b5289b89bef470b22a1bedaf2dc5c,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-19
-b07194c7c66dbcb57f2316470e115a1aa02b5289b89bef470b22a1bedaf2dc5c,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-19
-838ba0d30b1e9655a3518caa97e515bb830120055373d555fc11ee4509b39fcb,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-19
 838ba0d30b1e9655a3518caa97e515bb830120055373d555fc11ee4509b39fcb,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-19
 5df46c7312777560d6969e3a1f915f387eabca40352f253c7ede1e51107a1ae3,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
-f8a5f1764b39ca18049151b6bda474a4d71dae071ba1e53c665b8983fe014a9d,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-19
 feed215700d50001bdba136bc574446b86218a509f2a0d9e2379e65042b3828a,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-20
 f8a5f1764b39ca18049151b6bda474a4d71dae071ba1e53c665b8983fe014a9d,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-19
 72d863c6bb8ee912122225365969efa83055059a54fde30851df4ac4c521dea2,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-17
@@ -69,11 +69,13 @@ f8a5f1764b39ca18049151b6bda474a4d71dae071ba1e53c665b8983fe014a9d,F,61,Covid-19-C
 b2776a375722219ba16e89d895667e374de275c2e1ed9efacb4e9f8c3a2d5348,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-20
 7ca2ea9a13194b1f82128e92e4de3ea9330d6f3a8695d6fc80dd7d9bc3922a2d,F,59,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
 d01f3d00ef417d88b558eb6ce4f3ea213bd373a6b0b32f7c2b5bcb40eb95fae4,F,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
+d01f3d00ef417d88b558eb6ce4f3ea213bd373a6b0b32f7c2b5bcb40eb95fae4,F,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
 834df20b0fb6821afd92fd863fa5427e9431468cd06db1a67c4fe9e0939f2ac8,F,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-16
 791fc8877fb39b3df3d26c011cce67492b1302381377ca56cf8784d8ecd3732d,F,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-15
 8a30229dd8570472fc1ca6f7d943238dfd528a2eac17e37b06552d2c10dc7a16,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-17
 d365f8570fafbeb7df16e2e855106b146221a61023f62c4a371ec634d521d00e,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-15
 ee8c0aaa96777318a88555efc1b245293a7e60b6437e6b156f131ce7f3a1a99d,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
+34d58a2d6f3172aa3776feef9593c502383ff91a904abb393e49230f5402c577,F,56,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
 34d58a2d6f3172aa3776feef9593c502383ff91a904abb393e49230f5402c577,F,56,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-18
 4f4d2f2708f96e33a1286a4a36bd0e616af5a1ce7bd4bab19205c76214494961,F,56,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
 ef74022bcff9285867bdfeb933fa1adeaf95b48e3429f5330643015e45b62bba,F,55,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-14
@@ -96,6 +98,8 @@ cb80cbaf8b54ed2c8919e206a325fa184b4e4d640bba9c1193c38087d93b619b,F,44,Vacina Cov
 5fdf6a2fbdee32ff5c7141c2549b661e750b83cfe8642bc4ee072cb51ffae757,F,38,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1,2,2021-06-17
 6c7a2225aecbd9d45d42d408e7f5457abbf19d2cbd9bcd742a350494c3ef4b52,F,37,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-14
 05aab29b1a13b82f3633a2150694b122edc0d39dd1554df307bcde706342d239,F,32,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-18
+05aab29b1a13b82f3633a2150694b122edc0d39dd1554df307bcde706342d239,F,32,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-18
+2a7cfeddf74c2f1e35571dfe6c1788d778305a08f58fd6b89ebcd1cbf3e8fd57,F,29,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1,2,2021-06-18
 2a7cfeddf74c2f1e35571dfe6c1788d778305a08f58fd6b89ebcd1cbf3e8fd57,F,29,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1,2,2021-06-18
 7499bdd68dae3d90e1b8580fd45ebe58f1856d9dafebe206fda6d6d0966ca203,F,28,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-15
 7709d5c24c1547ab9f825c92eef8960e4d4f414aa8bf2aee953cf987ba8def42,F,28,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-15
