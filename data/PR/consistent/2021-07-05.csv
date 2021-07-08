@@ -36,6 +36,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,M,86,Covid-19-AstraZeneca,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2,2021-07-05
 1,M,86,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-06
+1,M,86,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-06
 1,M,86,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-05
 2,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-06
 2,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-08
@@ -229,6 +230,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,75,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-05
 1,M,74,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1,2021-07-05
 1,M,74,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
+1,M,74,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,M,74,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,M,74,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2,2021-07-06
 1,M,74,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2,2021-07-08
@@ -587,6 +589,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,67,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-08
 1,M,67,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-06
 1,M,67,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-05
+1,M,67,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2021-07-06
 1,M,67,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2021-07-06
 1,M,66,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-06
 1,M,66,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-07
@@ -1020,6 +1023,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-05
 1,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
+1,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,M,58,Vacina Covid-19 - Covishield,Trabalhadores Portuários,Trabalhadores Portuários,2,2021-07-05
 1,M,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-06
@@ -1190,6 +1194,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-07
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-05
+1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Motorista de Ambulância,2,2021-07-06
 1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Motorista de Ambulância,2,2021-07-06
@@ -1234,6 +1239,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,55,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 2,M,55,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
 1,M,55,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-05
+2,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 2,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-08
 1,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 65 a 69 anos,1,2021-07-05
@@ -1509,6 +1515,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2,2021-07-05
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-07
+1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 1,M,50,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
@@ -1548,6 +1555,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-06
 28,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-08
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-06
 1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-05
 2,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-08
 11,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-07
@@ -1561,6 +1569,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,50,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,M,50,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
 1,M,50,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-05
+2,M,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 2,M,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,M,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-05
 1,M,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-06
@@ -1720,6 +1729,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1,2021-07-07
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Funcionário do Sistema de Privação de Liberdade,Funcionário do Sistema de Privação de Liberdade,2,2021-07-05
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Guarda Municipal,2,2021-07-06
@@ -1746,6 +1756,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 2,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2021-07-05
+1,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Portuários,Trabalhadores Portuários,2,2021-07-07
 1,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-05
@@ -1889,6 +1900,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-05
+1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,1,2021-07-06
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Assistente Social,1,2021-07-06
@@ -2170,6 +2182,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,44,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-06
 2,M,44,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,2,2021-07-05
 1,M,44,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-06
@@ -2421,6 +2434,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-08
 1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-05
 2,M,42,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
@@ -2865,6 +2879,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2,2021-07-05
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-06
+1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-06
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-07
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,1,2021-07-05
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-06
@@ -3212,6 +3227,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-07
+1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Segurança,1,2021-07-05
 2,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-06
@@ -3240,6 +3256,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,1,2021-07-05
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,2021-07-07
+1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 1,M,35,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-05
@@ -3550,6 +3567,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,33,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-06
 1,M,33,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-05
 1,M,33,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1,2021-07-06
+1,M,33,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1,2021-07-06
 4,M,33,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-06
 1,M,33,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-06
 1,M,33,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-05
@@ -3732,6 +3750,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 2,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,32,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,2,2021-07-05
 1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
@@ -3870,6 +3889,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-05
 1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2021-07-06
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2021-07-06
 1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-05
 1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,2,2021-07-08
 1,M,31,Covid-19-AstraZeneca,Trabalhadores de Saúde,Segurança,2,2021-07-06
@@ -3984,6 +4004,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 3,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-05
 1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
@@ -4059,6 +4080,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,29,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 1,M,29,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 2,M,29,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
+1,M,29,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 2,M,29,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2021-07-05
 1,M,29,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-06
 1,M,29,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-06
@@ -4240,6 +4262,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2021-07-05
 3,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
+3,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 2,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,28,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,2,2021-07-05
@@ -4374,6 +4397,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-07
 1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,27,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,2,2021-07-05
 1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-07
@@ -4428,6 +4452,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,2021-07-06
 1,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 2,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-07
+1,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 1,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-05
 1,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-06
 1,M,26,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-07
@@ -4718,6 +4743,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2,2021-07-05
@@ -4829,6 +4855,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-05
 1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Forças Armadas (membros ativos),Exército Brasileiro - EB,1,2021-07-05
 1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
+1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),2,2021-07-06
 1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),2,2021-07-06
 1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-07
@@ -4934,6 +4961,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,22,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-05
 1,M,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,M,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-07
+1,M,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,M,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,M,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,M,21,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico Veterinário,1,2021-07-07
@@ -5085,6 +5113,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-07-06
 1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-07-06
 1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
+1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2021-07-07
 1,M,20,Covid-19-AstraZeneca,Povos e Comunidades Tradicionais,Quilombola,2,2021-07-07
 1,M,19,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-07
@@ -5160,6 +5189,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,M,19,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,2,2021-07-05
 1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
@@ -5219,6 +5249,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-05
 1,M,18,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-06
 1,M,18,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,2,2021-07-05
+1,M,18,Covid-19-Coronavac-Sinovac/Butantan,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-06
 1,M,18,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-07
 1,M,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1,2021-07-08
 2,M,18,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-07-06
@@ -5760,6 +5791,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-06
 1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-05
 1,F,69,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-06
+1,F,69,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2,2021-07-06
 1,F,69,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-07-06
 1,F,69,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 70 a 74 anos,2,2021-07-06
 54,F,69,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-06
@@ -6284,6 +6316,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,59,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,F,59,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
 1,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-06
+1,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-05
 68,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 2,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-08
@@ -6536,6 +6569,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-07
 1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-05
+1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2,2021-07-06
@@ -6560,6 +6594,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-06
+1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1,2021-07-06
 1,F,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-07-05
 1,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2021-07-06
@@ -6768,12 +6803,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2,2021-07-05
 1,F,51,Covid-19-AstraZeneca,Trabalhadores de Saúde,Cuidador de Idosos,2,2021-07-05
 1,F,51,Covid-19-AstraZeneca,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
+1,F,51,Covid-19-AstraZeneca,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 1,F,51,Covid-19-AstraZeneca,Trabalhadores da Educação,Ensino Básico,1,2021-07-07
 6,F,51,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,F,51,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-07
 1,F,51,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 2,F,51,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
 1,F,50,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-05
+1,F,50,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Assistente Social,1,2021-07-06
 1,F,50,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Assistente Social,1,2021-07-06
 1,F,50,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1,2021-07-05
 1,F,50,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-06
@@ -6823,6 +6860,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-05
 1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-06
 1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2021-07-06
+1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-07-06
 1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-07-06
 3,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2021-07-06
@@ -6930,6 +6968,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,F,49,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 5,F,49,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
 1,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
+1,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-06
 1,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Caminhoneiro,1,2021-07-05
 1,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-07-05
 1,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2021-07-06
@@ -6963,6 +7002,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2,2021-07-05
 1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-05
+1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2,2021-07-07
 1,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-05
@@ -7190,6 +7230,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2021-07-05
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-07
+3,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-06
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2021-07-05
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Motorista de Ambulância,2,2021-07-06
 1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Motorista de Ambulância,2,2021-07-06
@@ -7457,6 +7498,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,44,Vacina Covid-19 - Covishield,Trabalhadores Portuários,Trabalhadores Portuários,1,2021-07-06
 1,F,44,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-06
 1,F,44,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-07
+1,F,44,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-06
 1,F,44,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2021-07-05
 1,F,44,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-07
 1,F,44,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-05
@@ -7867,6 +7909,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 2,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-05
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Ribeirinha,2,2021-07-06
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2,2021-07-06
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2,2021-07-05
@@ -8214,6 +8257,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-06
 1,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-06
 136,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
+1,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-06
 1,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-05
 3,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-08
 1,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-07
@@ -8676,6 +8720,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,36,Covid-19-AstraZeneca,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-06
 1,F,36,Covid-19-AstraZeneca,Trabalhadores de Saúde,Profissionais de Educação Física,1,2021-07-06
 1,F,36,Covid-19-AstraZeneca,Trabalhadores de Saúde,Fisioterapeutas,2,2021-07-07
+1,F,36,Covid-19-AstraZeneca,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-06
 1,F,36,Covid-19-AstraZeneca,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-06
 1,F,36,Covid-19-AstraZeneca,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,F,36,Covid-19-AstraZeneca,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
@@ -9640,6 +9685,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,1,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2,2021-07-07
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2,2021-07-06
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,1,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,1,2021-07-06
@@ -9650,6 +9696,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
 3,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-06
@@ -9923,6 +9970,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2,2021-07-05
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-07
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-06
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2021-07-05
 4,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-07
@@ -10178,6 +10226,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2021-07-06
 1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1,2021-07-07
 1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-07-06
+1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-07-06
 1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-07-05
 1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-07
 1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-05
@@ -10193,6 +10242,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,25,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1,2021-07-05
 1,F,25,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-06
 1,F,25,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,2021-07-06
+1,F,25,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1,2021-07-06
 1,F,25,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1,2021-07-06
 1,F,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2021-07-05
 7,F,25,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
@@ -10222,6 +10272,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-07-06
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-07-06
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,2,2021-07-06
 2,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2021-07-05
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-08
@@ -10234,6 +10285,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 2,F,25,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,2,2021-07-07
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-07
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-06
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 18 a 64 anos,1,2021-07-05
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-07-06
 1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1,2021-07-07
@@ -10450,6 +10502,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,23,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-06
 1,F,23,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2021-07-05
 1,F,23,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2021-07-07
+1,F,23,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1,2021-07-06
 1,F,23,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1,2021-07-06
 1,F,23,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2021-07-05
 1,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2,2021-07-07
@@ -10744,6 +10797,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Recepcionista,1,2021-07-06
 1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Recepcionista,1,2021-07-06
 1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-06
+1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Profissionais e Auxiliares de limpeza,2,2021-07-06
 1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Outros,2,2021-07-06
 1,F,21,Covid-19-AstraZeneca,Trabalhadores de Saúde,Outros,2,2021-07-05
@@ -11036,6 +11090,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-06
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,2021-07-05
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-07
+1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-06
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,2021-07-05
 3,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-06
 1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1,2021-07-07
