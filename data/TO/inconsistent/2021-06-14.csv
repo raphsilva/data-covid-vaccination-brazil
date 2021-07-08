@@ -3,11 +3,9 @@ paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categor
 02c26bd7bef6c0dac3a2c4ff3eeeebbd1230d5568316707cf9a43500000580b3,M,55,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-15
 6eb63928e190b6e54ac50eb1aa775c1493336e9a14259bf26f9b4a6fb1e318d6,M,54,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-15
 c5f27d447d80276a701041c833e370e924b79c64cafd54e913666db0c228deba,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2,2021-06-17
-c5f27d447d80276a701041c833e370e924b79c64cafd54e913666db0c228deba,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1,2,2021-06-17
 6b7ed90472d449b4510da30cce55252d50dede4c7e8b29dfb331534d0adf1a80,M,50,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1,2,2021-06-15
 779dfd2400dd3521679ef00e04d27c6ec3727c199b7d16c7b886cec20fc83243,M,42,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-14
 f7469dbc57f912d276575a5a9b6295a671cd7bc07b963e37c7e490a909b7e928,M,37,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-15
-ffc60f60a032d634b982a8e6684262ad7dfedd8cd42a9d96e31ffb729db6407e,M,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2,2021-06-17
 ffc60f60a032d634b982a8e6684262ad7dfedd8cd42a9d96e31ffb729db6407e,M,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2,2021-06-17
 2e0604a547d81e2ed5258e163801df9f44b203ec2f3f2ba109331435636fd4a4,M,31,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-18
 334808cbebaecf3ffa1cb0b267a8cf61529a8705e67d511b163358889ea99d8e,M,30,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1,2,2021-06-18
@@ -18,26 +16,28 @@ a9c2d3dc914e153b2af9b988389547814436162bd1fc6d433fa6eb4c1fda26e3,F,58,Vacina Cov
 b40f1433ec20c4ad5eae4d617f8498427d1ceb4c128ab7f4f7e15cc874361d2e,F,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-15
 d6456d60b451ad0aa14a90435e9bdfa2b0489db33ea39c9189de2f1a5beda0de,F,50,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-15
 6ebc3220e6a8123300b2285a06ee0786cb34b74e5edb182de2e5df3478c895a1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-16
+6ebc3220e6a8123300b2285a06ee0786cb34b74e5edb182de2e5df3478c895a1,F,50,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2,2021-06-16
 eeb0e8777a811e4c26cce36eac0337b6d02db05bec4a45e60a8fb216db879355,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-16
-7f6be8585e6709d5b7758b17ec59f41cb6a3f5a38e82ee952b4bf8df2d14bfbf,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2,2021-06-17
+eeb0e8777a811e4c26cce36eac0337b6d02db05bec4a45e60a8fb216db879355,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-16
 7f6be8585e6709d5b7758b17ec59f41cb6a3f5a38e82ee952b4bf8df2d14bfbf,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Superior,1,2,2021-06-17
 947c7d16e4555d1f504f6e2eb9aa76e59e063ea79aeb46e381f183131a91614a,F,45,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-18
 f98578e41f39f48b06e6909b99c91a6bef91d2dd90be62b3508f6e976e79ac00,F,45,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-14
 402e97de153432575d0431f6015005770d1a688f12a01144d32761f6acafab62,F,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-15
 530849c4e86a3fcfeab6cc13124f78c6a43352bc137fd6be957e51e3fc1e6c56,F,42,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1,2,2021-06-18
 fcc5d646398de2cd317dc05faa4993a55f744e30192ff25713abec76ea062121,F,41,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-17
-fcc5d646398de2cd317dc05faa4993a55f744e30192ff25713abec76ea062121,F,41,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-17
 23da402b9539335fff1d1257731c7c5fea33e3222155e55c7983fb03c90fb309,F,41,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-14
-af479258a94f1969266aafcb2f8cf5693628c00a07a996fcdff9ddb18271bd80,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-17
 af479258a94f1969266aafcb2f8cf5693628c00a07a996fcdff9ddb18271bd80,F,41,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,1,2,2021-06-17
 9fb2624ae0e4e7a2cc025fdeb1f215cf9f53dfe191161094101e74ae0bcb1ab8,F,40,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-18
 6f5078b81392e7d3682d1b3f9bb2173f3c25642a7bba5f67d9f8010bb9e0ee44,F,40,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-14
 4ece62919465388b1662c9b4d922999f89e5ed1d72fff04ca7f9c03279803753,F,40,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-17
-4ece62919465388b1662c9b4d922999f89e5ed1d72fff04ca7f9c03279803753,F,40,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2,2021-06-17
+cbd22a7349dfabd78f544d02eb9e99250321a425fba7bac0b60635fc1ef10bba,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-16
 cbd22a7349dfabd78f544d02eb9e99250321a425fba7bac0b60635fc1ef10bba,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-16
 51e684b73ba4f42e4d31dc1ef62ddcb29ae37c062dde85aac9d12c8399789c6d,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2,2,2021-06-16
+51e684b73ba4f42e4d31dc1ef62ddcb29ae37c062dde85aac9d12c8399789c6d,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2,2,2021-06-16
+10d3421909463c627351e9d2b9c1e20b761dbcf1044fcf654f3c5a1d5cf7ca47,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-16
 10d3421909463c627351e9d2b9c1e20b761dbcf1044fcf654f3c5a1d5cf7ca47,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2,2021-06-16
 2db7d5da38aa56eee2d6e32faab003ad0c2ba56419509bdd8cefba897140b000,F,35,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-14
 1d0a2f53f9bac88542363dd9f355724eff47396ce7a86f9c70073562a63cc44f,F,31,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-15
+b4ed4d58c1e92fca978371adbab9b817930fcc753d480c8d8bb077b8fdf9b2c4,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-06-16
 b4ed4d58c1e92fca978371adbab9b817930fcc753d480c8d8bb077b8fdf9b2c4,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2,2,2021-06-16
 b289145c8dbd11c2f4ea81cde3993bb5ca7475350a2b183a1db3917d18c5e211,F,26,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2,2021-06-14
